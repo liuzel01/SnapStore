@@ -14,7 +14,7 @@
         },
         "welcome": {
             "modalTitle": "Willkommen",
-            "headlineWelcome": "Willkommen in der Shopware 6 Administration",
+            "headlineWelcome": "Willkommen in der SnapAdmin 6 Administration",
             "messageWelcome": "Dieser Einrichtungs-Assistent begleitet Dich durch die wichtigsten Einstellungen und gibt Dir wertvolle Tipps zur Konfiguration.<br>Willst Du Deinen Shop in einer anderen Sprache verwenden und dadurch auch Kunden in anderen Ländern erreichen? Dann kannst Du hier einfach die gewünschten Sprachpakete installieren.",
             "headlineChangeLanguage": "Installiere zusätzliche Sprachpakete",
             "switchLanguageModalTitle": "Wähle die Sprache der Benutzeroberfläche",

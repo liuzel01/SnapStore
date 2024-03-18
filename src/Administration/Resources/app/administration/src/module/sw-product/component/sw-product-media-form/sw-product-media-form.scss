@@ -77,12 +77,12 @@
 
         .sw-button--ghost {
             background-color: transparent;
-            border-color: lighten($color-shopware-brand-500, 20%);
+            border-color: lighten($color-snap-brand-500, 20%);
             color: lighten($color-darkgray-200, 20%);
         }
 
         .sw-button--primary {
-            background: lighten($color-shopware-brand-500, 20%);
+            background: lighten($color-snap-brand-500, 20%);
             color: lighten($color-darkgray-200, 60%);
         }
 

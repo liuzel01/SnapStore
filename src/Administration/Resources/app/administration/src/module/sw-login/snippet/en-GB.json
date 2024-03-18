@@ -2,11 +2,9 @@
   "sw-login": {
     "general": {
       "mainMenuItemIndex": "Login",
-      "description": "Shopware login"
+      "description": "SnapAdmin login"
     },
     "index": {
-      "headlineMain": "Hello!",
-      "subheadlineMain": "Welcome back.",
       "headlineForm": "Log in to your Shopware store",
       "labelUsername": "Username",
       "labelPassword": "Password",

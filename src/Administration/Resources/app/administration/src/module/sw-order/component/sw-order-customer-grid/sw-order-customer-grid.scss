@@ -80,7 +80,7 @@ $sw-field--radio-color-border: $color-gray-300;
         }
 
         &:checked ~ .sw-field__radio-state {
-            border: 5px solid $color-shopware-brand-500;
+            border: 5px solid $color-snap-brand-500;
         }
 
         &:checked:disabled ~ .sw-field__radio-state {

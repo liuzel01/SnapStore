@@ -690,7 +690,7 @@ const coreConfig = {
             chunkFilename: isDev ? 'bundles/administration/static/css/[chunkhash].css' : 'static/css/[chunkhash].css',
         }),
         new WebpackBar({
-            name: 'Shopware 6 Admin',
+            name: 'SnapAdmin 6',
             color: '#118cff',
         }),
 

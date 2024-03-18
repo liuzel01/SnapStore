@@ -2877,7 +2877,7 @@ $color-light-gray
 $color-link-water
 $color-pumpkin-spice
 $color-purple
-$color-shopware-blue
+$color-snap-blue
 $color-steam-cloud
 
 $color-gradient-dark-gray-start

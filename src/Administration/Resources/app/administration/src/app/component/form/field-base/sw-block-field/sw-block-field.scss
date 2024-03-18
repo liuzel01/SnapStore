@@ -19,7 +19,7 @@ $sw-field-transition: border-color 0.3s ease-out, background 0.3s ease;
         display: block;
         width: 100%;
         min-width: 0;
-        padding: 12px 16px;
+        padding: 8px 16px;
         border: none;
         background: $color-white;
         font-size: $font-size-xs;
@@ -49,8 +49,8 @@ $sw-field-transition: border-color 0.3s ease-out, background 0.3s ease;
 
     &.has--focus {
         .sw-block-field__block {
-            border-color: $color-shopware-brand-500;
-            box-shadow: 0 0 4px lighten($color-shopware-brand-500, 30%);
+            border-color: $color-snap-brand-500;
+            box-shadow: 0 0 4px lighten($color-snap-brand-500, 30%);
         }
     }
 

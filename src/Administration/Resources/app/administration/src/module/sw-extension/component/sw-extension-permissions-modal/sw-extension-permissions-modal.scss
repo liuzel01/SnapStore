@@ -39,7 +39,7 @@
             border: none;
             outline: none;
             background: none;
-            color: $color-shopware-brand-500;
+            color: $color-snap-brand-500;
             justify-self: end;
             text-decoration: underline;
             font-weight: $font-weight-regular;
@@ -47,16 +47,16 @@
             padding: 0;
 
             &:hover {
-                color: $color-shopware-brand-800;
+                color: $color-snap-brand-800;
                 background: none;
 
                 .sw-icon {
-                    color: $color-shopware-brand-800;
+                    color: $color-snap-brand-800;
                 }
             }
 
             .sw-icon {
-                color: $color-shopware-brand-500;
+                color: $color-snap-brand-500;
             }
         }
     }

@@ -5,8 +5,6 @@
       "description": "Shopware-Login"
     },
     "index": {
-      "headlineMain": "Hallo!",
-      "subheadlineMain": "Willkommen zurück.",
       "headlineForm": "Melde Dich in Deinem Shopware-Shop an",
       "labelUsername": "Benutzername",
       "labelPassword": "Passwort",
