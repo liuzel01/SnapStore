@@ -2,7 +2,7 @@
 title: Fix image zoom disabled state
 issue: NEXT-11578
 author: Ramona Schwering
-author_email: r.schwering@shopware.com 
+author_email: r.schwering@snapadmin.net 
 author_github: leichteckig
 ---
 # Storefront

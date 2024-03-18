@@ -117,7 +117,7 @@ describe('module/sw-cms/elements/manufacturer-logo/config', () => {
                 },
                 data: {
                     media: {
-                        url: 'http://shopware.com/image.jpg',
+                        url: 'http://snapadmin.net/image.jpg',
                         id: '1',
                     },
                 },

@@ -2,7 +2,7 @@
 title: Announce upcoming major version changes for base colors and appearance
 issue: NEXT-23969
 author: Tobias Berge
-author_email: t.berge@shopware.com
+author_email: t.berge@snapadmin.net
 author_github: @tobiasberge
 ---
 # Storefront

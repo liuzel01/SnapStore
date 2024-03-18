@@ -2,7 +2,7 @@
 title: Use sql null safe equals operator
 issue: NEXT-13838
 author: OliverSkroblin
-author_email: o.skroblin@shopware.com 
+author_email: o.skroblin@snapadmin.net 
 author_github: OliverSkroblin
 ---
 # Core

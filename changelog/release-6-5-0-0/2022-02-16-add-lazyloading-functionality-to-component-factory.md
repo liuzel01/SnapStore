@@ -2,7 +2,7 @@
 title: Add lazy loading functionality to component factory
 issue: NEXT-20067
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com
+author_email: j.leifeld@snapadmin.net
 author_github: @jleifeld
 ---
 # Administration

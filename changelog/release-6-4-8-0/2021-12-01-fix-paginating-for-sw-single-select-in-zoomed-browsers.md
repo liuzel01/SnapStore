@@ -2,7 +2,7 @@
 title: Fix paginating for sw-single-select in zoomed browsers
 issue: NEXT-18354
 author: Simon Vorgers
-author_email: s.vorgers@shopware.com
+author_email: s.vorgers@snapadmin.net
 author_github: SimonVorgers
 ---
 # Administration

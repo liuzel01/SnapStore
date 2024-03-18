@@ -2,7 +2,7 @@
 title: Add Migration to fix Slovakia being called Slovenia
 issue: next-10548
 author: Johannes Rahe
-author_email: j.rahe@shopware.com 
+author_email: j.rahe@snapadmin.net 
 author_github: Johannes Rahe
 ---
 # Core

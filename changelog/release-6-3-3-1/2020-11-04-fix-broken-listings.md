@@ -2,7 +2,7 @@
 title: Fix broken listings
 issue: NEXT-11830
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com 
+author_email: j.leifeld@snapadmin.net 
 author_github: @jleifeld
 ___
 # Administration

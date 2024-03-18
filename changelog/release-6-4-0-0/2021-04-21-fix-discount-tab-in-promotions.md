@@ -2,7 +2,7 @@
 title: Fix discount tab in promotions
 issue: NEXT-14897
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com 
+author_email: j.leifeld@snapadmin.net 
 author_github: @jleifeld
 ---
 # Administration

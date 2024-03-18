@@ -2,7 +2,7 @@
 title: Apply stricter IPv6 validation
 issue: NEXT-19046
 author: Jan Pietrzyk
-author_email: j.pietrzyk@shopware.com 
+author_email: j.pietrzyk@snapadmin.net 
 author_github: JanPietrzyk
 ---
 # Core

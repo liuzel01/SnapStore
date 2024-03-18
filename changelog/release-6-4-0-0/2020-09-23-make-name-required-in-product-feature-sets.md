@@ -2,7 +2,7 @@
 title: Make field "name" required in product feature sets.
 issue: NEXT-11000
 author:         Jannis Leifeld
-author_email:   j.leifeld@shopware.com
+author_email:   j.leifeld@snapadmin.net
 author_github:  @jleifeld
 ---
 # Core

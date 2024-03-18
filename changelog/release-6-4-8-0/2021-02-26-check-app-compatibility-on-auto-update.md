@@ -2,7 +2,7 @@
 title:              Check app compatibility on auto update
 issue:              NEXT-13261
 author:             Ramona Schwering
-author_email:       r.schwering@shopware.com
+author_email:       r.schwering@snapadmin.net
 author_github:      @leichteckig
 ---
 # Administration

@@ -2,7 +2,7 @@
 title: Implement not mapped selection for import export mapping
 issue: NEXT-17089
 author: Malte Janz
-author_email: m.janz@shopware.com 
+author_email: m.janz@snapadmin.net 
 author_github: Malte Janz
 ___
 # Core

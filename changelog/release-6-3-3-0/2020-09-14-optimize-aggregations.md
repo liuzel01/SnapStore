@@ -2,7 +2,7 @@
 title:              Optimize aggregations
 issue:              NEXT-10789
 author:             Oliver Skroblin
-author_email:       o.skroblin@shopware.com
+author_email:       o.skroblin@snapadmin.net
 author_github:      @OliverSkroblin
 ---
 # Core

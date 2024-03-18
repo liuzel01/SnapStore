@@ -2,7 +2,7 @@
 title: Reduce request payload of cms listing
 issue: NEXT-13859
 author: Lennart Tinkloh
-author_email: l.tinkloh@shopware.com 
+author_email: l.tinkloh@snapadmin.net 
 author_github: @lernhart
 ---
 # Administration

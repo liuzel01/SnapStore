@@ -2,7 +2,7 @@
 title: Fix missing table styling
 issue: NEXT-12796
 author: Ramona Schwering
-author_email: r.schwering@shopware.com 
+author_email: r.schwering@snapadmin.net 
 author_github: leichteckig
 ---
 # Storefront

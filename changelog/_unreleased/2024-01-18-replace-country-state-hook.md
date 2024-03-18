@@ -2,7 +2,7 @@
 title: replace-country-state-hook
 issue: NEXT-32109
 author: Alexandru Dumea
-author_email: a.dumea@shopware.com
+author_email: a.dumea@snapadmin.net
 author_github: Alexandru Dumea
 ---
 # Storefront

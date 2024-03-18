@@ -2,7 +2,7 @@
 title: Add custom fields for orders
 issue: NEXT-12277
 author: Lennart Tinkloh
-author_email: l.tinkloh@shopware.com 
+author_email: l.tinkloh@snapadmin.net 
 author_github: lernhart
 ---
 # Administration

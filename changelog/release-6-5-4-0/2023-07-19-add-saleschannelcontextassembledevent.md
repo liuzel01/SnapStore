@@ -2,7 +2,7 @@
 title: Add SalesChannelContextAssembledEvent
 issue: NEXT-26449
 author: Lennart Tinkloh
-author_email: l.tinkloh@shopware.com
+author_email: l.tinkloh@snapadmin.net
 author_github: @lernhart
 ---
 # Core

@@ -2,7 +2,7 @@
 title: Update storefront npm dependencies
 issue: NEXT-22322
 author: Tobias Berge
-author_email: t.berge@shopware.com
+author_email: t.berge@snapadmin.net
 author_github: @tobiasberge
 ---
 # Storefront

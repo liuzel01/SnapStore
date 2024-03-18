@@ -2,7 +2,7 @@
 title:         ACL for media
 issue:         NEXT-8922
 author:        Ramona Schwering
-author_email:  r.schwering@shopware.com
+author_email:  r.schwering@snapadmin.net
 author_github: @leichteckig
 ---
 # Administration

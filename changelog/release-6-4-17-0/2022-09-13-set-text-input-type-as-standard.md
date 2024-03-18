@@ -2,7 +2,7 @@
 title: Set text type as standard for html input tags 
 issue: NEXT-11457
 author: Stefan Sluiter
-author_email: s.sluiter@shopware.com
+author_email: s.sluiter@snapadmin.net
 author_github: ssltg
 ---
 # Storefront

@@ -2,7 +2,7 @@
 title: Fix eslint rule for TypeScript
 issue: NEXT-22760
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com
+author_email: s.seggewiss@snapadmin.net
 author_github: @seggewiss
 ___
 # Administration

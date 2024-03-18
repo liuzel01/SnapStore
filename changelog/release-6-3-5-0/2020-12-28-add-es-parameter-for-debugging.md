@@ -2,7 +2,7 @@
 title: Add ES parameter for debugging
 issue: NEXT-13000
 author: OliverSkroblin
-author_email: o.skroblin@shopware.com 
+author_email: o.skroblin@snapadmin.net 
 author_github: OliverSkroblin
 ---
 # Core

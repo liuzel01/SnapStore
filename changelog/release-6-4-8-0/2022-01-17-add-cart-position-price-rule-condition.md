@@ -2,7 +2,7 @@
 title: Add cart position price rule condition
 issue: NEXT-19470
 author: Krispin Lütjann
-author_email: k.luetjann@shopware.com 
+author_email: k.luetjann@snapadmin.net 
 author_github: King-of-Babylon
 ---
 # Core

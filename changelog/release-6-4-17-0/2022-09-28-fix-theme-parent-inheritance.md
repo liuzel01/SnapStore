@@ -2,7 +2,7 @@
 title: Fixed theme parent inheritance
 issue: NEXT-22848
 author: Stefan Sluiter
-author_email: s.sluiter@shopware.com
+author_email: s.sluiter@snapadmin.net
 author_github: ssltg
 ---
 # Storefront

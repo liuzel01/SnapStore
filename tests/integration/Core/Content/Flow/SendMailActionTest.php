@@ -254,8 +254,8 @@ class SendMailActionTest extends TestCase
             'recipient' => [
                 'type' => 'admin',
                 'data' => [
-                    'phuoc.cao@shopware.com' => 'shopware',
-                    'phuoc.cao.x@shopware.com' => 'shopware',
+                    'phuoc.cao@snapadmin.net' => 'shopware',
+                    'phuoc.cao.x@snapadmin.net' => 'shopware',
                 ],
             ],
         ];
@@ -524,8 +524,8 @@ class SendMailActionTest extends TestCase
             'recipient' => [
                 'type' => 'admin',
                 'data' => [
-                    'phuoc.cao@shopware.com' => 'shopware',
-                    'phuoc.cao.x@shopware.com' => 'shopware',
+                    'phuoc.cao@snapadmin.net' => 'shopware',
+                    'phuoc.cao.x@snapadmin.net' => 'shopware',
                 ],
             ],
         ]);
@@ -599,8 +599,8 @@ class SendMailActionTest extends TestCase
             'recipient' => [
                 'type' => 'admin',
                 'data' => [
-                    'phuoc.cao@shopware.com' => 'shopware',
-                    'phuoc.cao.x@shopware.com' => 'shopware',
+                    'phuoc.cao@snapadmin.net' => 'shopware',
+                    'phuoc.cao.x@snapadmin.net' => 'shopware',
                 ],
             ],
         ]);

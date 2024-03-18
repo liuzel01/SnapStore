@@ -2,7 +2,7 @@
 title: Fix $super chain with empty overrides
 issue: NEXT-33138
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com
+author_email: s.seggewiss@snapadmin.net
 author_github: @seggewiss
 ---
 # Administration

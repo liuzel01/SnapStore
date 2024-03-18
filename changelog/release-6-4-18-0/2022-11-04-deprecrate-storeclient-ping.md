@@ -2,7 +2,7 @@
 title: Deprecrate StoreClient:Ping
 issue: NEXT-23901
 author: Frederik Schmitt
-author_email: s.schmitt@shopware.com
+author_email: s.schmitt@snapadmin.net
 ---
 # Core
 * Deprecated `Shopware\Core\Framework\Store\Services\StoreClient::ping`. Function will be removed without replacement in 6.5.0.0

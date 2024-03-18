@@ -2,7 +2,7 @@
 title: Add ACL to send mail route
 issue: NEXT-29113
 author: Alexandru Dumea
-author_email: a.dumea@shopware.com
+author_email: a.dumea@snapadmin.net
 author_github: Alexandru Dumea
 ---
 # API

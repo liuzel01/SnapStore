@@ -2,7 +2,7 @@
 title: Fix cms saving in category module
 issue: NEXT-14820
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com 
+author_email: j.leifeld@snapadmin.net 
 author_github: @jleifeld
 ---
 # Administration

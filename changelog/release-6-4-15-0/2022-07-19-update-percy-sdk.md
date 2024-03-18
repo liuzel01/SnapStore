@@ -2,7 +2,7 @@
 title: Update Percy SDK
 issue: NEXT-22312
 author: Marcus Cimander
-author_email: m.cimander@shopware.com
+author_email: m.cimander@snapadmin.net
 author_github: macidev
 ___
 # Administration

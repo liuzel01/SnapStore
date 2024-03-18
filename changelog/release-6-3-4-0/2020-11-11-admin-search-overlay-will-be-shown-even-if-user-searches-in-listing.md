@@ -2,7 +2,7 @@
 title: Admin search overlay will be shown even if user searches in listing
 issue: NEXT-12026
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com 
+author_email: j.leifeld@snapadmin.net 
 author_github: @jleifeld
 ---
 # Administration

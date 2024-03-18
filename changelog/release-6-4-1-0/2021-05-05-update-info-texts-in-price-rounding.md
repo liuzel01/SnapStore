@@ -2,7 +2,7 @@
 title: Update info texts in price rounding
 issue: NEXT-15058
 author: Daniel Meyer
-author_email: d.meyer@shopware.com   
+author_email: d.meyer@snapadmin.net   
 author_github: GitEvil
 ---
 # Administration

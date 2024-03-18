@@ -2,7 +2,7 @@
 title: Remove old service definitions
 issue: NEXT-14275
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com 
+author_email: s.seggewiss@snapadmin.net 
 author_github: seggewiss
 ---
 # Core

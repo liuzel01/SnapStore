@@ -2,7 +2,7 @@
 title: Fix third level flyout in admin menu
 issue: NEXT-22433
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com
+author_email: j.leifeld@snapadmin.net
 author_github: Jannis Leifeld
 ---
 # Administration

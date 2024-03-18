@@ -2,7 +2,7 @@
 title: Fix url building in recovery route
 issue: NEXT-10398
 author: OliverSkroblin
-author_email: o.skroblin@shopware.com 
+author_email: o.skroblin@snapadmin.net 
 author_github: OliverSkroblin
 ---
 # Core

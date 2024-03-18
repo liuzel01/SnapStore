@@ -2,7 +2,7 @@
 title: fix typo in swedish currency
 issue: NEXT-11721
 author: Johannes Rahe
-author_email: j.rahe@shopware.com 
+author_email: j.rahe@snapadmin.net 
 author_github: J.Rahe
 ---
 # Core

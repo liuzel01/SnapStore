@@ -2,7 +2,7 @@
 title: Upgrade Cypress to version 5.5.0
 issue: NEXT-11441
 author: Ramona Schwering
-author_email: r.schwering@shopware.com 
+author_email: r.schwering@snapadmin.net 
 author_github: leichteckig
 ---
 # Administration

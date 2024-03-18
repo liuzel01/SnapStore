@@ -2,7 +2,7 @@
 title: Add app integration id header
 issue: NEXT-20525
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com
+author_email: s.seggewiss@snapadmin.net
 author_github: @seggewiss
 ---
 # API

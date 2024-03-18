@@ -2,7 +2,7 @@
 title: Respect inherit flag for system config controller
 issue: NEXT-25957
 author: Lennart Tinkloh
-author_email: l.tinkloh@shopware.com
+author_email: l.tinkloh@snapadmin.net
 author_github: @lernhart
 ---
 # API

@@ -27,7 +27,7 @@ describe('module/sw-import-export/components/sw-import-export-activity', () => {
                     username: 'admin',
                     firstName: '',
                     lastName: 'admin',
-                    email: 'info@shopware.com',
+                    email: 'info@snapadmin.net',
                     active: true,
                     admin: true,
                     lastUpdatedPasswordAt: null,

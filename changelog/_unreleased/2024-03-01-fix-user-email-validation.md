@@ -2,7 +2,7 @@
 title: Fix user email validation
 issue: NEXT-34114
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com
+author_email: s.seggewiss@snapadmin.net
 author_github: @seggewiss
 ---
 # Core

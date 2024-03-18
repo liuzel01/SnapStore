@@ -2,7 +2,7 @@
 title: Remove outdated payment blocked errors in recalculation
 issue: NEXT-14172
 author: d.neustadt
-author_email: d.neustadt@shopware.com 
+author_email: d.neustadt@snapadmin.net 
 author_github: dneustadt
 ---
 # Core

@@ -2,7 +2,7 @@
 title: Remove major deprecations from merchant services area
 issue: NEXT-24646
 author: Frederik Schmitt
-author_email: f.schmitt@shopware.com
+author_email: f.schmitt@snapadmin.net
 author_github: fschmtt
 ---
 # Administration

@@ -2,7 +2,7 @@
 title: Fix encoder
 issue: NEXT-25177
 author: Oliver Skroblin
-author_email: o.skroblin@shopware.com
+author_email: o.skroblin@snapadmin.net
 ---
 # Core
 * Removed unused `CurrencyEntity::$shippingMethodPrices` property.

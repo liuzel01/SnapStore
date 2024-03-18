@@ -108,7 +108,7 @@ class MailActionControllerTest extends TestCase
                         'salesChannel' => $salesChannelDecode,
                     ],
                     'documentIds' => $documentIds,
-                    'recipients' => ['d.dinh@shopware.com' => 'Duy'],
+                    'recipients' => ['d.dinh@snapadmin.net' => 'Duy'],
                     'salesChannelId' => $salesChannel->getId(),
                     'senderName' => $salesChannel->getName(),
                     'subject' => 'New document for your order',

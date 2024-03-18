@@ -2,7 +2,7 @@
 title: Add query signing to SDK urls
 issue: NEXT-22244
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com
+author_email: s.seggewiss@snapadmin.net
 author_github: @seggewiss
 ---
 # API

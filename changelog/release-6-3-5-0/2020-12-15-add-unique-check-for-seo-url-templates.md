@@ -2,7 +2,7 @@
 title: Add unique check for seo url templates
 issue: NEXT-12453
 author: OliverSkroblin
-author_email: o.skroblin@shopware.com 
+author_email: o.skroblin@snapadmin.net 
 author_github: OliverSkroblin
 ---
 # Core

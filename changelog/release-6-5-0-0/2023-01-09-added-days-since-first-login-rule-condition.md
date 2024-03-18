@@ -2,7 +2,7 @@
 title: Added days since first login rule condition
 issue: NEXT-21041
 author: d.neustadt
-author_email: d.neustadt@shopware.com
+author_email: d.neustadt@snapadmin.net
 author_github: dneustadt
 ---
 # Core

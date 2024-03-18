@@ -2,7 +2,7 @@
 title: The apps and themes tab in the extension store are now working
 issue: NEXT-12901
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com 
+author_email: j.leifeld@snapadmin.net 
 author_github: @jleifeld
 ---
 # Administration

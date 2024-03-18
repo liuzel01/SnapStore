@@ -2,7 +2,7 @@
 title: Deprecate ShopIdChangedException
 issue: NEXT-31870
 author: Sebastian Franze
-author_email: s.franze@shopware.com
+author_email: s.franze@snapadmin.net
 ---
 # Core
 * Deprecated `\Shopware\Core\System\UsageData\Exception\ShopIdChangedException`. Will be removed without replacement

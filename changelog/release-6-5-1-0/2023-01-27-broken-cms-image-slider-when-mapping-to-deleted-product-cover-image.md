@@ -2,7 +2,7 @@
 title: Broken CMS image slider when mapping to deleted product cover image
 issue: NEXT-24850
 author: Niklas Limberg
-author_email: n.limberg@shopware.com
+author_email: n.limberg@snapadmin.net
 author_github: NiklasLimberg
 ---
 # Core

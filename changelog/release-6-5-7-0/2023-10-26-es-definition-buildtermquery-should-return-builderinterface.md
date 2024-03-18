@@ -2,7 +2,7 @@
 title: ES Definition buildTermQuery should return BuilderInterface
 issue: NEXT-30186
 author: thuong.le
-author_email: t.le@shopware.com
+author_email: t.le@snapadmin.net
 author_github: thuong.le
 ---
 # Core

@@ -2,7 +2,7 @@
 title: Fix inheritances switch
 issue: NEXT-25018
 author: Dennis Höllmann
-author_email: d.hoellmann@shopware.com
+author_email: d.hoellmann@snapadmin.net
 author_github: Deristes
 ---
 # Administration

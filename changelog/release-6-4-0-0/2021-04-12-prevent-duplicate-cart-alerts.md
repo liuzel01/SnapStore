@@ -2,7 +2,7 @@
 title: Prevent duplicate cart alerts
 issue: NEXT-14465
 author: Lennart Tinkloh
-author_email: l.tinkloh@shopware.com
+author_email: l.tinkloh@snapadmin.net
 author_github: @lernhart
 ---
 # Storefront

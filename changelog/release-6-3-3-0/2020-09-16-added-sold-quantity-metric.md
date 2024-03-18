@@ -2,7 +2,7 @@
 title: Added sold quantity metric
 issue: NEXT-10765
 author: Lennart Tinkloh
-author_email: l.tinkloh@shopware.com 
+author_email: l.tinkloh@snapadmin.net 
 author_github: lernhart
 ---
 # Core

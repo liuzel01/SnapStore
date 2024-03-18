@@ -2,7 +2,7 @@
 title: Added payment token invalidation
 issue: NEXT-14739
 author: OliverSkroblin
-author_email: o.skroblin@shopware.com 
+author_email: o.skroblin@snapadmin.net 
 author_github: OliverSkroblin
 ---
 # Core

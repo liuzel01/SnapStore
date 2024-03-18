@@ -2,7 +2,7 @@
 title: sw-settings-snippet-list logic fixes
 issue: NEXT-9533
 author: NiklasLimberg
-author_email: n.limberg@shopware.com 
+author_email: n.limberg@snapadmin.net 
 author_github: NiklasLimberg
 ---
 # Core

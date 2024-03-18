@@ -2,7 +2,7 @@
 title: Update Admin Extension SDK version
 issue: NEXT-28243
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com
+author_email: j.leifeld@snapadmin.net
 author_github: Jannis Leifeld
 ---
 # Administration

@@ -2,7 +2,7 @@
 title: Added option to automatically logout guest accounts after order
 issue: NEXT-9923
 author: Oliver Skroblin
-author_email: o.skroblin@shopware.com 
+author_email: o.skroblin@snapadmin.net 
 author_github: OliverSkroblin
 ---
 # Core

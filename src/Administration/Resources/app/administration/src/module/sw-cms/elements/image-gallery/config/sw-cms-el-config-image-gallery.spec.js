@@ -8,13 +8,13 @@ const mediaDataMock = [
     {
         media: {
             id: '1',
-            url: 'http://shopware.com/image1.jpg',
+            url: 'http://snapadmin.net/image1.jpg',
         },
     },
     {
         media: {
             id: '2',
-            url: 'http://shopware.com/image2.jpg',
+            url: 'http://snapadmin.net/image2.jpg',
         },
     },
 ];

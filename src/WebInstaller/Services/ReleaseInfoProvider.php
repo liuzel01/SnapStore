@@ -27,7 +27,7 @@ class ReleaseInfoProvider
     public function fetchVersions(): array
     {
         /** @var array<string> $versions */
-        $versions = $this->client->request('GET', 'https://releases.shopware.com/changelog/index.json')->toArray();
+        $versions = $this->client->request('GET', 'https://releases.snapadmin.net/changelog/index.json')->toArray();
 
         usort($versions, function ($a, $b) {
             return version_compare($b, $a);

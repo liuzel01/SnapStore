@@ -2,7 +2,7 @@
 title: cache id env
 issue: NEXT-20688
 author: Oliver Skroblin
-author_email: o.skroblin@shopware.com
+author_email: o.skroblin@snapadmin.net
 author_github: OliverSkroblin
 ---
 # Core

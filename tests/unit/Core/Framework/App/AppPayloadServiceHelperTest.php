@@ -50,9 +50,9 @@ class AppPayloadServiceHelperTest extends TestCase
         $app = new AppEntity();
         $app->setVersion('1.0.0');
 
-        $source = $appPayloadServiceHelper->buildSource($app, 'https://shopware.com');
+        $source = $appPayloadServiceHelper->buildSource($app, 'https://snapadmin.net');
 
-        static::assertSame('https://shopware.com', $source->getUrl());
+        static::assertSame('https://snapadmin.net', $source->getUrl());
         static::assertSame($this->ids->get('shop-id'), $source->getShopId());
         static::assertSame('1.0.0', $source->getAppVersion());
     }
@@ -66,7 +66,7 @@ class AppPayloadServiceHelperTest extends TestCase
             ->willReturn($context);
 
         $cart = new Cart($this->ids->get('cart'));
-        $source = new Source('https://shopware.com', $this->ids->get('shop-id'), '1.0.0');
+        $source = new Source('https://snapadmin.net', $this->ids->get('shop-id'), '1.0.0');
         $payload = new TaxProviderPayload($cart, $salesChannelContext);
         $payload->setSource($source);
 

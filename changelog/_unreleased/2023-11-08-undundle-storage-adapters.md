@@ -2,7 +2,7 @@
 title: Undundle storage adapters
 issue: NEXT-26756
 author: Jozsef Damokos
-author_email: j.damokos@shopware.com
+author_email: j.damokos@snapadmin.net
 author_github: jozsefdamokos
 ---
 # Core

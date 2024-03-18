@@ -2,7 +2,7 @@
 title: Add non-stackable line item exception to log level notice
 issue: NEXT-29798
 author: Michel Bade
-author_email: m.bade@shopware.com
+author_email: m.bade@snapadmin.net
 author_github: @cyl3x
 ---
 # Core

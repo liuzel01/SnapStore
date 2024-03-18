@@ -2,7 +2,7 @@
 title:              Extend business events
 issue:              NEXT-10702
 author:             Oliver Skroblin
-author_email:       o.skroblin@shopware.com
+author_email:       o.skroblin@snapadmin.net
 author_github:      @OliverSkroblin
 ---
 # Core

@@ -2,7 +2,7 @@
 title: Fix missing iframe query params in CMS element
 issue: NEXT-32091
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com
+author_email: j.leifeld@snapadmin.net
 author_github: Jannis Leifeld
 ---
 # Administration

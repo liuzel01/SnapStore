@@ -2,7 +2,7 @@
 title: Disable admin-watch browser open with env variable
 issue: NEXT-24942
 author: Niklas Limberg
-author_email: n.limberg@shopware.com
+author_email: n.limberg@snapadmin.net
 author_github: NiklasLimberg
 ---
 # Administration

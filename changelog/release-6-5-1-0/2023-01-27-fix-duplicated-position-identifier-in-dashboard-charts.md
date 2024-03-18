@@ -2,7 +2,7 @@
 title: Fix duplicated position identifier in dashboard charts
 issue: NEXT-25146
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com
+author_email: j.leifeld@snapadmin.net
 author_github: Jannis Leifeld
 ---
 # Administration

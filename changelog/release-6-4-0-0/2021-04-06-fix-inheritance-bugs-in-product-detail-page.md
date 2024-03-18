@@ -2,7 +2,7 @@
 title: Fix inheritance bugs in product detail page
 issue: NEXT-14340
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com 
+author_email: j.leifeld@snapadmin.net 
 author_github: @jleifeld
 ---
 # Administration

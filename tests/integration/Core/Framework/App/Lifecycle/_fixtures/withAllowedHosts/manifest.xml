@@ -15,7 +15,7 @@
         <privacy>https://test.com/privacy</privacy>
     </meta>
     <allowed-hosts>
-        <host>shopware.com</host>
+        <host>snapadmin.net</host>
         <host>example.com</host>
     </allowed-hosts>
 </manifest>

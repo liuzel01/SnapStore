@@ -2,7 +2,7 @@
 title: deprecate changelog
 issue: NEXT-19161
 author: Jan Pietrzyk
-author_email: j.pietrzyk@shopware.com
+author_email: j.pietrzyk@snapadmin.net
 author_github: JanPietrzyk
 ---
 # Core

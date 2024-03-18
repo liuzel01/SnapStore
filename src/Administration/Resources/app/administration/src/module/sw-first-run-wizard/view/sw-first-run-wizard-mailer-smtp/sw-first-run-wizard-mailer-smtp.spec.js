@@ -73,7 +73,7 @@ describe('module/sw-first-run-wizard/view/sw-first-run-wizard-mailer-smtp', () =
 
         const expectedMailerSettings = {
             'core.mailerSettings.emailAgent': 'local',
-            'core.mailerSettings.host': 'shopware.com',
+            'core.mailerSettings.host': 'snapadmin.net',
             'core.mailerSettings.port': 321,
             'core.mailerSettings.username': 'Mad max',
             'core.mailerSettings.password': 'verySafe123',
@@ -99,7 +99,7 @@ describe('module/sw-first-run-wizard/view/sw-first-run-wizard-mailer-smtp', () =
 
         const expectedMailerSettings = {
             'core.mailerSettings.emailAgent': 'local',
-            'core.mailerSettings.host': 'shopware.com',
+            'core.mailerSettings.host': 'snapadmin.net',
             'core.mailerSettings.port': 321,
             'core.mailerSettings.username': 'Mad max',
             'core.mailerSettings.password': 'verySafe123',

@@ -2,7 +2,7 @@
 title: Use StoreApiException to show proper errors from API
 issue: NEXT-15299
 author: Tobias Berge
-author_email: t.berge@shopware.com 
+author_email: t.berge@snapadmin.net 
 author_github: @tobiasberge
 ---
 # Core

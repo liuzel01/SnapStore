@@ -2,7 +2,7 @@
 title: Fix permissions for creating documents in sw-order
 issue: NEXT-24960
 author: Markus Velt
-author_email: m.velt@shopware.com
+author_email: m.velt@snapadmin.net
 author_github: @raknison
 ---
 # Administration

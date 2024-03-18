@@ -2,7 +2,7 @@
 title: Extract Entity and EntityCollection to Extension SDK
 issue: NEXT-20454
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com
+author_email: s.seggewiss@snapadmin.net
 author_github: @seggewiss
 ---
 # Administration

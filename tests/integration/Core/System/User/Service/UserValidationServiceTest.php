@@ -48,14 +48,14 @@ class UserValidationServiceTest extends TestCase
                 'firstName' => 'first',
                 'lastName' => 'last',
                 'localeId' => $firstLocale,
-                'email' => 'user@shopware.com',
+                'email' => 'user@snapadmin.net',
                 'password' => TestDefaults::HASHED_PASSWORD,
             ],
         ], $context);
 
         $userIdToTest = Uuid::randomHex();
         static::assertTrue($this->userValidationService->checkEmailUnique('some@other.email', $userIdToTest, $context));
-        static::assertTrue($this->userValidationService->checkEmailUnique('user@shopware.com', $userId, $context));
+        static::assertTrue($this->userValidationService->checkEmailUnique('user@snapadmin.net', $userId, $context));
     }
 
     public function testIfReturnsFalseForDuplicateEmails(): void
@@ -74,13 +74,13 @@ class UserValidationServiceTest extends TestCase
                 'firstName' => 'first',
                 'lastName' => 'last',
                 'localeId' => $firstLocale,
-                'email' => 'user@shopware.com',
+                'email' => 'user@snapadmin.net',
                 'password' => TestDefaults::HASHED_PASSWORD,
             ],
         ], $context);
 
         $userIdToTest = Uuid::randomHex();
-        static::assertFalse($this->userValidationService->checkEmailUnique('user@shopware.com', $userIdToTest, $context));
+        static::assertFalse($this->userValidationService->checkEmailUnique('user@snapadmin.net', $userIdToTest, $context));
     }
 
     public function testIfReturnsTrueForUniqueUsernames(): void
@@ -98,7 +98,7 @@ class UserValidationServiceTest extends TestCase
                 'firstName' => 'first',
                 'lastName' => 'last',
                 'localeId' => $firstLocale,
-                'email' => 'user@shopware.com',
+                'email' => 'user@snapadmin.net',
                 'password' => TestDefaults::HASHED_PASSWORD,
             ],
         ], $context);
@@ -123,7 +123,7 @@ class UserValidationServiceTest extends TestCase
                 'firstName' => 'first',
                 'lastName' => 'last',
                 'localeId' => $firstLocale,
-                'email' => 'user@shopware.com',
+                'email' => 'user@snapadmin.net',
                 'password' => TestDefaults::HASHED_PASSWORD,
             ],
         ], $context);

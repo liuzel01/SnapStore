@@ -2,7 +2,7 @@
 title: Fixed refresh error list in cms listing layout
 issue: NEXT-19704
 author: Luka Brlek
-author_email: l.brlek@shopware.com
+author_email: l.brlek@snapadmin.net
 author_github: Luka Brlek
 ---
 # Administration

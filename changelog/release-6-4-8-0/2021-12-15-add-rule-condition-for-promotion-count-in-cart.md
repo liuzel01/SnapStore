@@ -2,7 +2,7 @@
 title: Add rule condition for promotion count in cart
 issue: NEXT-18988
 author: Krispin Lütjann
-author_email: k.luetjann@shopware.com 
+author_email: k.luetjann@snapadmin.net 
 author_github: King-of-Babylon
 ---
 # Core

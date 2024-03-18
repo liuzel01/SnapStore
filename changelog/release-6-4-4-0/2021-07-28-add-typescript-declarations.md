@@ -2,7 +2,7 @@
 title: Add typescript declaration bindings for the third party interface
 issue: NEXT-16406
 author: Stephan Pohl
-author_email: s.pohl@shopware.com
+author_email: s.pohl@snapadmin.net
 author_github: klarstil
 ---
 # Administration

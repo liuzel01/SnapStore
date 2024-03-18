@@ -2,7 +2,7 @@
 title: Fix that the checkboxes in the category tree don´t get hidden after closing
 issue: NEXT-11418
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com 
+author_email: j.leifeld@snapadmin.net 
 author_github: @jleifeld
 ---
 # Administration

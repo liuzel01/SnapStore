@@ -2,7 +2,7 @@
 title: Bump up dependencies for further PHP 8.0 support
 issue: NEXT-15546
 author: Lennart Tinkloh
-author_email: l.tinkloh@shopware.com 
+author_email: l.tinkloh@snapadmin.net 
 author_github: lernhart
 ---
 # Core

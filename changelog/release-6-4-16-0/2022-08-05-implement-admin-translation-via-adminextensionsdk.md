@@ -2,7 +2,7 @@
 title: Implement admin translation via AdminExtensionSDK
 issue: NEXT-22761
 author: Marcel Brode
-author_email: m.brode@shopware.com
+author_email: m.brode@snapadmin.net
 author_github: Marcel Brode
 ---
 # Core

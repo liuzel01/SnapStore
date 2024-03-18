@@ -49,7 +49,7 @@ class CustomerChangePasswordSubscriberTest extends TestCase
 
     public function testClearLegacyWhenUserChangePassword(): void
     {
-        $email = Uuid::randomHex() . '@shopware.com';
+        $email = Uuid::randomHex() . '@snapadmin.net';
         $password = 'ThisIsNewPassword';
 
         $newPassword = Uuid::randomHex();
@@ -82,7 +82,7 @@ class CustomerChangePasswordSubscriberTest extends TestCase
 
     public function testNotClearLegacyDataWhenUserNotChangedPassword(): void
     {
-        $email = Uuid::randomHex() . '@shopware.com';
+        $email = Uuid::randomHex() . '@snapadmin.net';
         $password = 'ThisIsNewPassword';
 
         $customerId = $this->createCustomerWithLegacyPassword($email, $password);

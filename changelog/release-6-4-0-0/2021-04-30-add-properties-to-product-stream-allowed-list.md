@@ -2,7 +2,7 @@
 title: Add properties to product stream allowed list
 issue: NEXT-15049
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com 
+author_email: j.leifeld@snapadmin.net 
 author_github: @jleifeld
 ---
 # Administration

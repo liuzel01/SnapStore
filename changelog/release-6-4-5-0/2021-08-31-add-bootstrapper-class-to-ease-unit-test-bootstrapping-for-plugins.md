@@ -2,7 +2,7 @@
 title: Add TestBootstrapper class to ease unit test bootstrapping for plugins
 issue: NEXT-16981
 author: Patrick Weyck
-author_email: p.weyck@shopware.com 
+author_email: p.weyck@snapadmin.net 
 author_github: Patrick Weyck
 ---
 # Core

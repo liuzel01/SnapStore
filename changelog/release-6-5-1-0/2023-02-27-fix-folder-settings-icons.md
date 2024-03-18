@@ -2,7 +2,7 @@
 title: Fix folder settings icons
 issue: NEXT-25468
 author: Jannis Leifeld
-author_email: j.leifeld@shopware.com
+author_email: j.leifeld@snapadmin.net
 author_github: Jannis Leifeld
 ---
 # Administration

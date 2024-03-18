@@ -2,7 +2,7 @@
 title: Custom fields in import-export
 issue: NEXT-18304
 author: d.neustadt
-author_email: d.neustadt@shopware.com 
+author_email: d.neustadt@snapadmin.net 
 author_github: dneustadt
 ---
 # Core

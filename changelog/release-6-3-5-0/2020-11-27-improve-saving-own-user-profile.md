@@ -2,7 +2,7 @@
 title: Improve saving own user profile
 issue: NEXT-12230
 author: Ramona Schwering
-author_email: r.schwering@shopware.com
+author_email: r.schwering@snapadmin.net
 author_github: @leichteckig
 ---
 # Core

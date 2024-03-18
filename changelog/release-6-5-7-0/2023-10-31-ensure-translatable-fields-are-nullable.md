@@ -2,7 +2,7 @@
 title: Ensure translatable fields are nullable
 issue: NEXT-31270
 author: Jozsef Damokos
-author_email: j.damokos@shopware.com
+author_email: j.damokos@snapadmin.net
 author_github: jozsefdamokos
 ---
 # Core

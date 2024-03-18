@@ -208,7 +208,7 @@ describe('module/sw-customer/page/sw-customer-create', () => {
         await wrapper.setData({
             customer: {
                 id: '1',
-                email: 'ytn@shopware.com',
+                email: 'ytn@snapadmin.net',
                 boundSalesChannelId: null,
             },
         });

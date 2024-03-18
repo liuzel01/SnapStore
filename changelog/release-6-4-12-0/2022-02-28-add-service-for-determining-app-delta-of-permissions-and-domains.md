@@ -2,7 +2,7 @@
 title: Add service for determining delta of app permissions and domains
 issue: NEXT-18876
 author: Frederik Schmitt
-author_email: f.schmitt@shopware.com
+author_email: f.schmitt@snapadmin.net
 author_github: fschmtt
 ---
 # Core

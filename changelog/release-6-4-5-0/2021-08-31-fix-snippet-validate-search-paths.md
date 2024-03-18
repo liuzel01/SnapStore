@@ -2,7 +2,7 @@
 title: Fix snippet:validate search paths
 issue: NEXT-12940
 author: Patrick Weyck
-author_email: p.weyck@shopware.com 
+author_email: p.weyck@snapadmin.net 
 author_github: pweyck
 ---
 # Core

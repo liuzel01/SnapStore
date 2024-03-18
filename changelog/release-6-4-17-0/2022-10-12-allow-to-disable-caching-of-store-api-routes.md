@@ -2,7 +2,7 @@
 title: Allow to disable caching of store-api-routes
 issue: NEXT-23648
 author: Simon Vorgers & Viktor Buzyka
-author_email: s.vorgers@shopware.com
+author_email: s.vorgers@snapadmin.net
 author_github: SimonVorgers
 ---
 # Core

@@ -2,7 +2,7 @@
 title: Improve SHIFT + Tab on select fields
 issue: NEXT-16079
 author: Raoul Kramer
-author_email: r.kramer@shopware.com 
+author_email: r.kramer@snapadmin.net 
 author_github: djpogo
 ---
 # Administration

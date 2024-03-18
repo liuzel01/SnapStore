@@ -2,7 +2,7 @@
 title: make the FirstRunWizardClient depend less on StoreService
 issue: NEXT-18846
 author: Adrian Les
-author_email: a.les@shopware.com
+author_email: a.les@snapadmin.net
 author_github: adrianles
 ---
 # Core

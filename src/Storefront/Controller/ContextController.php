@@ -85,7 +85,7 @@ class ContextController extends StorefrontController
          * http://shopware.de/fr
          *
          * http://shopware.fr
-         * http://shopware.com
+         * http://snapadmin.net
          * http://shopware.de
          *
          * http://color.com

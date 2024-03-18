@@ -2,7 +2,7 @@
 title: Fix component library
 issue: NEXT-24552
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com
+author_email: s.seggewiss@snapadmin.net
 author_github: @seggewiss
 ---
 # Administration

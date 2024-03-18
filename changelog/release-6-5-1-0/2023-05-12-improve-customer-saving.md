@@ -2,7 +2,7 @@
 title: Improve customer saving
 issue: NEXT-26420
 author: Krispin Lütjann
-author_email: k.luetjann@shopware.com
+author_email: k.luetjann@snapadmin.net
 author_github: @King-of-Babylon
 ---
 

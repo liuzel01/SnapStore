@@ -42,7 +42,7 @@
         <read>order</read>
     </permissions>
     <allowed-hosts>
-        <host>shopware.com</host>
+        <host>snapadmin.net</host>
         <host>example.com</host>
     </allowed-hosts>
 </manifest>

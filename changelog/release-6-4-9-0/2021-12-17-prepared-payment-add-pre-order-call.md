@@ -2,7 +2,7 @@
 title: Prepared payment add pre-order call
 issue: NEXT-17162
 author: Lennart Tinkloh
-author_email: l.tinkloh@shopware.com
+author_email: l.tinkloh@snapadmin.net
 author_github: @lernhart
 ---
 # Core

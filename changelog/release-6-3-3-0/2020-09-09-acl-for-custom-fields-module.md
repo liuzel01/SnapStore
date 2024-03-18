@@ -2,7 +2,7 @@
 title: ACL for custom fields
 issue: NEXT-8959
 author: Ramona Schwering    
-author_email: r.schwering@shopware.com
+author_email: r.schwering@snapadmin.net
 author_github: leichteckig
 ---
 # Administration

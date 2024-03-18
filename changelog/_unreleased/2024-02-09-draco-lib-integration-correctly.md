@@ -2,7 +2,7 @@
 title: Draco Lib integration correctly
 issue: NEXT-33516
 author: ffrank
-author_email: f.frank@shopware.com
+author_email: f.frank@snapadmin.net
 author_github: ffrank
 ---
 # Storefront

@@ -2,7 +2,7 @@
 title: Unnecessary transitions won't fail any more
 issue: NEXT-7683
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com 
+author_email: s.seggewiss@snapadmin.net 
 author_github: seggewiss
 ---
 # Core

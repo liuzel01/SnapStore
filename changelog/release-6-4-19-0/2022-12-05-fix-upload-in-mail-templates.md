@@ -2,7 +2,7 @@
 title: Fix upload in mail templates
 issue: NEXT-24122
 author: Lars Kemper
-author_email: l.kemper@shopware.com
+author_email: l.kemper@snapadmin.net
 author_github: @LarsKemper
 ---
 # Administration

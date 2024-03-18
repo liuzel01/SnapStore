@@ -2,7 +2,7 @@
 title: Unclutter composer commands
 issue: NEXT-25195
 author: Sebastian Seggewiss
-author_email: s.seggewiss@shopware.com
+author_email: s.seggewiss@snapadmin.net
 author_github: @seggewiss
 ---
 # Core

@@ -2,7 +2,7 @@
 title: Display shipping methods by position in the checkout
 issue: NEXT-20511
 author: Markus Velt
-author_email: m.velt@shopware.com
+author_email: m.velt@snapadmin.net
 author_github: @raknison
 ---
 # Core

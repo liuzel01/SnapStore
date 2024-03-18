@@ -2,7 +2,7 @@
 title: Clearify phone number relation in order details
 issue: NEXT-15651
 author: d.neustadt
-author_email: d.neustadt@shopware.com 
+author_email: d.neustadt@snapadmin.net 
 author_github: dneustadt
 ---
 # Administration

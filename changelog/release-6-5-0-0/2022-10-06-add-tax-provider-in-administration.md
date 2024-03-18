@@ -2,7 +2,7 @@
 title: Add tax provider in administration
 issue: NEXT-21647
 author: Markus Velt
-author_email: m.velt@shopware.com
+author_email: m.velt@snapadmin.net
 author_github: @raknison
 ---
 # Administration

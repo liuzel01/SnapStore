@@ -2,7 +2,7 @@
 title: Login guests with their ID
 issue: NEXT-17934
 author: Frederik Schmitt
-author_email: f.schmitt@shopware.com
+author_email: f.schmitt@snapadmin.net
 author_github: fschmtt
 ---
 # Storefront

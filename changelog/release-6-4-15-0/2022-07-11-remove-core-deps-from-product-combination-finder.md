@@ -2,7 +2,7 @@
 title: Remove core dependencies from ProductCombinationFinder
 issue: NEXT-21968
 author: Stefan Sluiter
-author_email: s.sluiter@shopware.com
+author_email: s.sluiter@snapadmin.net
 author_github: ssltg
 ---
 # Storefront

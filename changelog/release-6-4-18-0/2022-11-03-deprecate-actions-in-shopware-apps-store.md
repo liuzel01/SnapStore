@@ -2,7 +2,7 @@
 title: Deprecate Actions in Shopware Apps Store
 issue: NEXT-21295
 author: l.boecker
-author_email: l.boecker@shopware.com
+author_email: l.boecker@snapadmin.net
 author_github: l.boecker
 ---
 # Administration

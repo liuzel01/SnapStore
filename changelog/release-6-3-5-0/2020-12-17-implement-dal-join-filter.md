@@ -2,7 +2,7 @@
 title: Implement dal join filter
 issue: NEXT-12156
 author: OliverSkroblin
-author_email: o.skroblin@shopware.com 
+author_email: o.skroblin@snapadmin.net 
 author_github: OliverSkroblin
 ---
 # Core

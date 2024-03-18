@@ -2,7 +2,7 @@
 title: Add shipping status rule condition
 issue: NEXT-19751
 author: Lars Kemper
-author_email: l.kemper@shopware.com
+author_email: l.kemper@snapadmin.net
 author_github: @LarsKemper
 
 ---

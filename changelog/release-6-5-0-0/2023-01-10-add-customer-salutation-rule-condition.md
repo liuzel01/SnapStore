@@ -2,7 +2,7 @@
 title: Add customer salutation rule condition
 issue: NEXT-24827
 author: Lars Kemper
-author_email: l.kemper@shopware.com
+author_email: l.kemper@snapadmin.net
 author_github: @LarsKemper
 ---
 # Core

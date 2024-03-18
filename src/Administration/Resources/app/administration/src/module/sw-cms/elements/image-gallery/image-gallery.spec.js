@@ -24,7 +24,7 @@ describe('module/sw-cms/elements/image-gallery/index.js', () => {
         element.defaultConfig.sliderItems.value = [{
             mediaId: '123',
             newTab: true,
-            url: 'https://www.shopware.com',
+            url: 'https://www.snapadmin.net',
         }];
 
         element.defaultConfig.mediaProperty = {
@@ -46,7 +46,7 @@ describe('module/sw-cms/elements/image-gallery/index.js', () => {
 
         const mediaEntites1 = [{
             id: '123',
-            url: 'https://www.shopware.com',
+            url: 'https://www.snapadmin.net',
         }];
 
         const mediaEntites2 = [{
@@ -82,7 +82,7 @@ describe('module/sw-cms/elements/image-gallery/index.js', () => {
             sliderItems: [{
                 media: mediaEntites1[0],
                 newTab: true,
-                url: 'https://www.shopware.com',
+                url: 'https://www.snapadmin.net',
             }],
             mediaProperty: [{
                 media: mediaEntites2[0],

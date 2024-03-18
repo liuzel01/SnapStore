@@ -2,7 +2,7 @@
 title: No relative URLs for image linking
 issue: NEXT-22757
 author: Niklas Limberg
-author_email: n.limberg@shopware.com
+author_email: n.limberg@snapadmin.net
 author_github: NiklasLimberg
 ---
 # Administration

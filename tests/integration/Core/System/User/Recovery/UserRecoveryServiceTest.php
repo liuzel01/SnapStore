@@ -27,7 +27,7 @@ class UserRecoveryServiceTest extends TestCase
 {
     use IntegrationTestBehaviour;
 
-    private const VALID_EMAIL = 'info@shopware.com';
+    private const VALID_EMAIL = 'info@snapadmin.net';
 
     private UserRecoveryService $userRecoveryService;
 

@@ -848,7 +848,7 @@ Due to a Vue 3 limitation the `v-tooltip` directive no longer supports component
 ```html
 <div
     v-tooltip="{
-        message: 'For more information click <a href=\"https://shopware.com\">here</a>.',
+        message: 'For more information click <a href=\"https://snapadmin.net\">here</a>.',
     }"
 </div>
 ```
@@ -857,7 +857,7 @@ Due to a Vue 3 limitation the `v-tooltip` directive no longer supports component
 ```html
 <div
     v-tooltip="{
-        message: 'For more information visit shopware.com',
+        message: 'For more information visit snapadmin.net',
     }"
 </div>
 ```
