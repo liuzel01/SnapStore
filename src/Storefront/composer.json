@@ -1,6 +1,6 @@
 {
     "name": "snap-ag/storefront",
-    "description": "Storefront for SnapAdmin",
+    "description": "Storefront for SnapStore",
     "type": "library",
     "license": "MIT",
     "autoload": {

@@ -1,6 +1,6 @@
 {
     "name": "snap-ag/administration",
-    "description": "Administration frontend for the Shopware Core",
+    "description": "Administration frontend for the SnapStore Core",
     "type": "library",
     "license": "MIT",
     "autoload": {
