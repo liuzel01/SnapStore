@@ -4,16 +4,6 @@
       "name": "Core",
       "directory": "src/Core",
       "target": "git@github.com:starcat-snap/core.git"
-    },
-    {
-      "name": "Administration",
-      "directory": "src/Administration",
-      "target": "git@github.com:starcat-snap/administration.git"
-    },
-    {
-      "name": "Administration",
-      "directory": "src/Storefront",
-      "target": "git@github.com:starcat-snap/storefront.git"
     }
   ]
 }
