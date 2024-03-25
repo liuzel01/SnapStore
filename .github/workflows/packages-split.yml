@@ -18,6 +18,7 @@ on:
 jobs:
   sync_commits:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     name: Sync commits
     steps:
       -   uses: actions/checkout@v3
