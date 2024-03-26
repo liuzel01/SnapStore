@@ -9,11 +9,6 @@
       "name": "Administration",
       "directory": "src/Administration",
       "target": "git@github.com:starcat-snap/administration.git"
-    },
-    {
-      "name": "Storefront",
-      "directory": "src/Storefront",
-      "target": "git@github.com:starcat-snap/storefront.git"
-    }
+
   ]
 }
