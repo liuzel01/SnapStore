@@ -142,7 +142,7 @@
     "sw-admin-menu": {
       "linkLogout": "Abmelden",
       "linkMinimizeMenu": "Menü einklappen",
-      "textShopwareAdmin": "Shopware Administration",
+      "textShopwareAdmin": "SnapStore Administration",
       "textProjectName": "Administration",
       "administrator": "Administrator",
       "navigation": {

@@ -528,7 +528,7 @@ describe('ASYNC app/adapter/view/vue.adapter.js', () => {
                 locale.register('en-GB', {
                     global: {
                         'sw-admin-menu': {
-                            textShopwareAdmin: 'Text Shopware Admin',
+                            textShopwareAdmin: 'Text SnapStore Admin',
                         },
                         my: {
                             mock: {
@@ -617,7 +617,7 @@ describe('ASYNC app/adapter/view/vue.adapter.js', () => {
                 },
             }, 'Test');
 
-            expect(result).toBe('Test | Mock title | Text Shopware Admin');
+            expect(result).toBe('Test | Mock title | Text SnapStore Admin');
         });
 
         it('should add the store to the rootComponent', () => {

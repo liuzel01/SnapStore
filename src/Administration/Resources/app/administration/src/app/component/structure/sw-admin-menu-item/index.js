@@ -57,6 +57,9 @@ Component.register('sw-admin-menu-item', {
     },
 
     computed: {
+        isExpanded() {
+            return Shopware.State.get('adminMenu').isExpanded;
+        },
         getLinkToProp() {
             if (this.entry.params) {
                 return { name: this.entry.path, params: this.entry.params };

@@ -41,7 +41,7 @@ export default function setupShopwareDevtools(app: App): void {
     setupDevtoolsPlugin({
         // Options
         id: 'sw-admin-extension-plugin',
-        label: 'Shopware Admin extensions plugin',
+        label: 'SnapStore Admin extensions plugin',
         // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
         app,
     }, (api) => {
