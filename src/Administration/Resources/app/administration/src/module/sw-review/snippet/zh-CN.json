@@ -1,13 +1,13 @@
 {
   "sw-review": {
     "general": {
-      "mainMenuItemList": "Reviews",
+      "mainMenuItemList": "评论",
       "mainMenuItemGeneral": "Reviews",
       "placeholderSearchBar": "Search reviews...",
       "descriptionTextModule": "Manage reviews here."
     },
     "list": {
-      "textReviewOverview": "Reviews",
+      "textReviewOverview": "评论",
       "columnProduct": "Product",
       "columnPoints": "Stars",
       "columnUser": "Customer",

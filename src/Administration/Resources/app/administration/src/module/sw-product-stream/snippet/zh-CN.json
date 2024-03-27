@@ -1,7 +1,7 @@
 {
   "sw-product-stream": {
     "general": {
-      "mainMenuItemGeneral": "Dynamic product groups",
+      "mainMenuItemGeneral": "动态产品组",
       "placeholderSearchBar": "Search dynamic product groups...",
       "descriptionTextModule": "Manage dynamic product groups here.",
       "errorCategory": "\"{name}\" provides product assignments for a category and thus cannot be deleted. | \"{name}\" provides product assignments for {count} categories and thus cannot be deleted."

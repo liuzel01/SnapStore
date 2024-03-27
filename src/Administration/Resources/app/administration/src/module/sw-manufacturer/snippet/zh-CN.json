@@ -1,7 +1,7 @@
 {
   "sw-manufacturer": {
     "general": {
-      "mainMenuItemList": "Manufacturers",
+      "mainMenuItemList": "生厂商",
       "mainMenuItemGeneral": "Manufacturers",
       "placeholderSearchBar": "Search manufacturers..."
     },

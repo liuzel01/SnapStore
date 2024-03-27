@@ -2,7 +2,7 @@
 {
   "sw-theme-manager": {
     "general": {
-      "mainMenuItemGeneral": "Themes",
+      "mainMenuItemGeneral": "主题",
       "placeholderSearchBar": "Search for available themes...",
       "descriptionTextModule": "Manage themes here.",
       "mainMenuHeader": "Your themes",

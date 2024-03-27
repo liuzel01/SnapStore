@@ -1,7 +1,7 @@
 {
   "sw-category": {
     "general": {
-      "mainMenuItemIndex": "Categories",
+      "mainMenuItemIndex": "分类",
       "mainMenuItemList": "Overview",
       "descriptionTextModule": "Manage categories here.",
       "headlineCategories": "Categories",

@@ -2,7 +2,7 @@
   "sw-property": {
     "general": {
       "placeholderSearchBar": "Search properties...",
-      "mainMenuItemGeneral": "Properties",
+      "mainMenuItemGeneral": "属性",
       "descriptionTextModule": "Manage properties here."
     },
     "list": {

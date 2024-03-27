@@ -15,8 +15,8 @@
       "errorMessage": "Unable to load default Sales Channel configuration."
     },
     "general": {
-      "mainMenuItemGeneral": "Products",
-      "mainMenuItemList": "Products",
+      "mainMenuItemGeneral": "产品",
+      "mainMenuItemList": "产品",
       "mainMenuItemAdd": "Add product",
       "descriptionTextModule": "Manage products here.",
       "placeholderSearchBar": "Search products...",
