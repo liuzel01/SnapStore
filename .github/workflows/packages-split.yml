@@ -40,7 +40,7 @@ jobs:
             path: |
               ./splitsh
               ./splitsh.db
-              key: '${{ runner.os }}-splitsh-v101'
+            key: '${{ runner.os }}-splitsh-v101'
 
       # Sync commits and tags for the configured subtree splits
       -   name: subtree split

@@ -1,5 +1,5 @@
 {
-    "name": "snap-ag/elasticsearch",
+    "name": "snap-store/elasticsearch",
     "description": "Elasticsearch for Shopware",
     "type": "library",
     "license": "MIT",

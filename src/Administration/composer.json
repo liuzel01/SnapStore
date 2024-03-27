@@ -1,5 +1,5 @@
 {
-    "name": "snap-ag/administration",
+    "name": "snap-store/administration",
     "description": "Administration frontend for the SnapStore Core",
     "type": "library",
     "license": "MIT",

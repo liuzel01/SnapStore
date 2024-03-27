@@ -1,5 +1,5 @@
 {
-    "name": "snap-ag/storefront",
+    "name": "snap-store/storefront",
     "description": "Storefront for SnapStore",
     "type": "library",
     "license": "MIT",
