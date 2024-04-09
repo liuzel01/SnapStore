@@ -21,6 +21,10 @@ jobs:
     timeout-minutes: 600
     name: Sync commits
     steps:
+      - name: Set up Git
+        run: |
+          git config --global user.email "lyricsong47@gmail.com"
+          git config --global user.name "gouez"
       -   uses: actions/checkout@v4
           with:
             persist-credentials: false

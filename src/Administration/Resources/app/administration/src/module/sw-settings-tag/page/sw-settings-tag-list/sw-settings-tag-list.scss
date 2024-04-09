@@ -61,7 +61,7 @@
                 transform: translate(30%, -30%);
                 border-radius: 18px;
                 color: $color-white;
-                background: $color-snap-brand-500;
+                background: $color-shopware-brand-500;
                 font-size: $font-size-xxs;
                 font-style: normal;
                 pointer-events: none;
@@ -99,7 +99,7 @@
     &__bulk-merge-progress {
         text-align: center;
         padding: 50px 0 30px;
-        color: $color-snap-brand-500;
+        color: $color-shopware-brand-500;
     }
 
     &__bulk-merge-progress-icon {

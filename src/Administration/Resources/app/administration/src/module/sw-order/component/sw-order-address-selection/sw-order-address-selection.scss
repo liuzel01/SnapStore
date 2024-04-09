@@ -22,17 +22,17 @@
         }
 
         .sw-context-menu-item__text {
-            color: $color-snap-brand-500;
+            color: $color-shopware-brand-500;
         }
 
         .sw-context-menu-item__text:hover {
-            border-bottom: 1px solid $color-snap-brand-500;
+            border-bottom: 1px solid $color-shopware-brand-500;
         }
     }
 
     &__popover {
         .sw-order-address-selection__order-address p:first-child {
-            color: $color-snap-brand-500;
+            color: $color-shopware-brand-500;
         }
 
         .sw-select-result .sw-select-result__result-item-text {

@@ -1,7 +1,7 @@
 @import "~scss/variables";
 
 $sw-order-address-modal-highlight: #edf8ff;
-$sw-order-address-modal-link: $color-snap-brand-500;
+$sw-order-address-modal-link: $color-shopware-brand-500;
 
 .sw-order-create-address-modal {
     &__card {
@@ -19,7 +19,7 @@ $sw-order-address-modal-link: $color-snap-brand-500;
 
             .sw-address {
                 &__body {
-                    color: $color-snap-brand-500;
+                    color: $color-shopware-brand-500;
                 }
             }
         }
@@ -51,7 +51,7 @@ $sw-order-address-modal-link: $color-snap-brand-500;
         position: relative;
         margin: 0;
         line-height: $font-size-m;
-        color: $color-snap-brand-500;
+        color: $color-shopware-brand-500;
         cursor: pointer;
 
         &:hover {

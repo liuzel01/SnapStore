@@ -5,12 +5,12 @@
     gap: 6px;
     align-items: center;
     text-decoration: underline;
-    color: $color-snap-brand-500;
+    color: $color-shopware-brand-500;
     font-size: $font-size-xs;
 
     &:hover,
     &:focus {
-        color: $color-snap-brand-600;
+        color: $color-shopware-brand-600;
     }
 
     &--inline {

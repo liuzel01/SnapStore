@@ -49,8 +49,8 @@ $sw-condition-unit-menu-button-vertical-margin: 4px;
 
         &:hover,
         &:focus-visible {
-            background-color: $color-snap-brand-50;
-            color: $color-snap-brand-500;
+            background-color: $color-shopware-brand-50;
+            color: $color-shopware-brand-500;
         }
 
         &__shortcut {
@@ -59,7 +59,7 @@ $sw-condition-unit-menu-button-vertical-margin: 4px;
         }
 
         &__selected-label {
-            color: $color-snap-brand-500;
+            color: $color-shopware-brand-500;
             font-weight: bold;
         }
     }
