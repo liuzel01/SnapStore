@@ -32,7 +32,7 @@ jobs:
         uses: "symplify/monorepo-split-github-action@2.1"
         with:
           # ↓ split "packages/easy-coding-standard" directory
-          package_directory: 'packages/${{ matrix.package.local_path }}'
+          package_directory: 'src/${{ matrix.package.local_path }}'
 
           # ↓ into https://github.com/symplify/easy-coding-standard repository
           repository_organization: 'starcat-store'
@@ -50,7 +50,7 @@ jobs:
           tag: ${GITHUB_REF#refs/tags/}
 
           # ↓ split "packages/easy-coding-standard" directory
-          package_directory: 'packages/${{ matrix.package.local_path }}'
+          package_directory: 'src/${{ matrix.package.local_path }}'
 
           # ↓ into https://github.com/symplify/easy-coding-standard repository
           repository_organization: 'starcat-store'
