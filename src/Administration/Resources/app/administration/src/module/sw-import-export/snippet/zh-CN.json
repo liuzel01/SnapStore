@@ -1,7 +1,7 @@
 {
     "sw-import-export": {
         "general": {
-            "mainMenuItemGeneral": "Import/Export",
+            "mainMenuItemGeneral": "导入/导出",
             "descriptionTextModule": "Management of imports and exports"
         },
         "activity": {

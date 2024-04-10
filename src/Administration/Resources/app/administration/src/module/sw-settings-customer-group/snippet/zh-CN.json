@@ -1,14 +1,14 @@
 {
   "sw-settings-customer-group": {
     "general": {
-      "mainMenuItemGeneral": "Customer groups",
-      "buttonCancel": "Cancel",
-      "buttonCreate": "Add customer group",
-      "buttonSave": "Save",
-      "placeholderSearchBar": "Search customer groups..."
+      "mainMenuItemGeneral": "客户组",
+      "buttonCancel": "取消",
+      "buttonCreate": "添加客户组",
+      "buttonSave": "保存",
+      "placeholderSearchBar": "搜索客户组..."
     },
     "list": {
-      "columnName": "Name",
+      "columnName": "名称",
       "columnDisplayGross": "Tax display"
     },
     "detail": {

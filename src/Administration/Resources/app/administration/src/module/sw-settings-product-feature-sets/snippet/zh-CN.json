@@ -1,7 +1,7 @@
 {
   "sw-settings-product-feature-sets": {
     "general": {
-      "mainMenuItemGeneral": "Essential characteristics",
+      "mainMenuItemGeneral": "产品特征",
       "placeholderSearchBar": "Search templates...",
       "searchType": "Essential characteristics"
     },

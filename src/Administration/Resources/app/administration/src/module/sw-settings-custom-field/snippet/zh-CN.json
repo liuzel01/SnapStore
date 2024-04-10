@@ -2,8 +2,8 @@
   "sw-settings-custom-field": {
     "general": {
       "description": "Manage custom fields here.",
-      "mainMenuItemGeneral": "Custom fields",
-      "placeholderSearchBar": "Search all custom fields...",
+      "mainMenuItemGeneral": "自定义字段",
+      "placeholderSearchBar": "搜索全部自定义字段...",
       "tooltipTechnicalName": "A technical name has to be unique and cannot be changed later.",
       "tooltipType": "The type cannot be changed later."
     },

@@ -1,10 +1,10 @@
 {
   "sw-settings-store": {
     "general": {
-      "mainMenuItemGeneral": "Shopware Account",
-      "textHeadline": "Shopware Account",
+      "mainMenuItemGeneral": "官方账号",
+      "textHeadline": "官方账号",
       "description": "Change your Shopware Account settings here.",
-      "buttonSave": "Save",
+      "buttonSave": "保存",
       "messageSaveSuccess": "Your Shopware Account information have been saved."
     },
     "detail": {

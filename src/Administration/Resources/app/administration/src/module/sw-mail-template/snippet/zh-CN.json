@@ -2,8 +2,8 @@
   "sw-mail-template": {
     "general": {
       "mainMenuItemList": "Overview",
-      "mainMenuItemGeneral": "Email templates",
-      "placeholderSearchBar": "Search email templates...",
+      "mainMenuItemGeneral": "邮件模板",
+      "placeholderSearchBar": "搜索邮件模板...",
       "notificationTestMailSalesChannelErrorMessage": "Please choose a Sales Channel",
       "notificationTestMailErrorMessage": "An error occurred while sending the test email.",
       "notificationTestMailSuccessMessage": "The test email has been sent.",

@@ -1,7 +1,7 @@
 {
   "sw-settings-usage-data": {
     "general": {
-      "mainMenuItemGeneral": "Data sharing",
+      "mainMenuItemGeneral": "分享数据",
       "textHeadline": "Data sharing",
       "description": "Configure to share usage data with us to improve Shopware."
     }

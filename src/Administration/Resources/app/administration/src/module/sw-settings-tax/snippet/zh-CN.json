@@ -1,7 +1,7 @@
 {
   "sw-settings-tax": {
     "general": {
-      "mainMenuItemGeneral": "Tax",
+      "mainMenuItemGeneral": "税",
       "taxRateSymbol": "&#037;",
       "placeholderSearchBar": "Search tax rates..."
     },

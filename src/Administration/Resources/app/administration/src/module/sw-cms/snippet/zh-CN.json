@@ -1,8 +1,8 @@
 {
   "sw-cms": {
     "general": {
-      "placeholderSearchBar": "Search layouts...",
-      "mainMenuItemGeneral": "购物体验",
+      "placeholderSearchBar": "搜索 布局...",
+      "mainMenuItemGeneral": "布局",
       "moduleTitle": "Shopping Experiences",
       "greeting": "Layouts",
       "createNewLayout": "Create new layout",

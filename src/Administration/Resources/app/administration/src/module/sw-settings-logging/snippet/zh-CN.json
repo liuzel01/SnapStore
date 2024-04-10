@@ -1,8 +1,8 @@
 {
   "sw-settings-logging": {
     "general": {
-      "mainMenuItemGeneral": "Event logs",
-      "placeholderSearchBar": "Search logs..."
+      "mainMenuItemGeneral": "事件日志",
+      "placeholderSearchBar": "搜索日志..."
     },
     "list": {
       "title": "Logs",

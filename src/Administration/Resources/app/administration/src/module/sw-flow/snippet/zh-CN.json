@@ -5,9 +5,9 @@
       "labelTag": "Tag"
     },
     "general": {
-      "mainMenuItemGeneral": "Flow Builder",
+      "mainMenuItemGeneral": "流程",
       "descriptionTextModule": "Flow Builder",
-      "placeholderSearchBar": "Search flows...",
+      "placeholderSearchBar": "搜索流程...",
       "tabMyFlows": "My flows",
       "tabFlowTemplates": "Flow templates"
     },

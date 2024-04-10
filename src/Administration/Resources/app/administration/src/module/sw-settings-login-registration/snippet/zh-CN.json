@@ -1,10 +1,10 @@
 {
   "sw-settings-login-registration": {
     "general": {
-      "mainMenuItemGeneral": "Log-in & sign-up",
+      "mainMenuItemGeneral": "登录 & 注册",
       "description": "Change basic information here.",
-      "textHeadline": "Log-in & sign-up",
-      "buttonSave": "Save",
+      "textHeadline": "登录 & 注册",
+      "buttonSave": "保存",
       "messageSaveSuccess": "Configuration has been saved."
     }
   }

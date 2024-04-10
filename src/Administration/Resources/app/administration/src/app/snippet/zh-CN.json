@@ -140,11 +140,11 @@
       }
     },
     "sw-admin-menu": {
-      "linkLogout": "Logout",
+      "linkLogout": "注销",
       "linkMinimizeMenu": "折叠菜单",
       "textShopwareAdmin": "SnapStore Administration",
       "textProjectName": "Administration",
-      "administrator": "Administrator",
+      "administrator": "管理员",
       "navigation": {
         "mainMenuItemCatalogue": "目录",
         "mainMenuItemContent": "内容",
@@ -570,7 +570,7 @@
     "sw-search-bar": {
       "messageNoResults": "No results found for \"{term}\".",
       "messageNoTypeResults": "No type found.",
-      "placeholderSearchField": "Find products, customers, orders...",
+      "placeholderSearchField": "查找 产品, 客户, 订单...",
       "placeholderTypeSearchField": "Search \"{entity}\"...",
       "placeholderShortcutInfo": "Hint: Press the \"f\" key to get to the search bar faster.",
       "placeholderSearchShortcutInfo": "<strong>Tip:</strong> Press <span>f</span> to open the search from anywhere.",
@@ -981,7 +981,7 @@
       "tooltipTabHasWarnings": "This page contains warnings."
     },
     "entities": {
-      "all": "All",
+      "all": "全部",
       "custom_field": "Custom field | Custom fields",
       "cart": "Cart | Carts",
       "category": "Category | Categories",

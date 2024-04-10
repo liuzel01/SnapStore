@@ -1,8 +1,8 @@
 {
   "sw-settings-search": {
     "general": {
-      "mainMenuItemGeneral": "Search",
-      "textHeadline": "Search settings"
+      "mainMenuItemGeneral": "搜索",
+      "textHeadline": "搜索设置"
     },
     "page": {
       "generalTab": "General",

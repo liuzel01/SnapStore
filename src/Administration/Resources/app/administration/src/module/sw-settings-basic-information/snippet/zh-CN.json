@@ -1,10 +1,10 @@
 {
   "sw-settings-basic-information": {
     "general": {
-      "mainMenuItemGeneral": "Basic information",
+      "mainMenuItemGeneral": "基本信息",
       "description": "Change basic information here.",
-      "textHeadline": "Basic information",
-      "buttonSave": "Save",
+      "textHeadline": "基本信息",
+      "buttonSave": "保存",
       "messageSaveSuccess": "Configuration has been saved."
     },
     "captcha": {

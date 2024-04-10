@@ -1,8 +1,8 @@
 {
   "sw-settings-number-range": {
     "general": {
-      "mainMenuItemGeneral": "Number ranges",
-      "placeholderSearchBar": "Search number ranges...",
+      "mainMenuItemGeneral": "编号",
+      "placeholderSearchBar": "搜索编号...",
       "infoGlobalType": "There can be only be one \"{typeName}\" number range. Changes to the number range of type \"{typeName}\" have to be made here and will globally affect all Sales Channels.",
       "infoGlobalTypeTitle": "Global number range type \"{typeName}\"",
       "infoGlobal": "You cannot change a global number range's type. But you can create additional number ranges for most types and particular Sales Channels back in the overview.",

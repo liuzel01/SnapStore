@@ -1,12 +1,12 @@
 {
   "sw-settings-shopware-updates": {
     "general": {
-      "menuTitle": "Shopware updates",
+      "menuTitle": "系统更新",
       "title": "Shopware update ({version})",
-      "emptyTitle": "Shopware updates",
+      "emptyTitle": "系统更新",
       "emptyState": "You are running the latest version.",
-      "checkForUpdates": "Check for updates",
-      "currentVersion": "Current version:"
+      "checkForUpdates": "检查更新",
+      "currentVersion": "当前版本:"
     },
     "cards": {
       "info": "What's new?",

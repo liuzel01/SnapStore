@@ -2,8 +2,8 @@
   "sw-extension": {
     "store": {
       "tabs": {
-        "apps": "Apps",
-        "themes": "Themes"
+        "apps": "应用",
+        "themes": "主题"
       },
       "listing": {
         "anyOption": "Any",
@@ -12,18 +12,18 @@
     },
     "my-extensions": {
       "listing": {
-        "initialSearchType": "Extensions",
-        "placeholderSearchBar": "Find extensions...",
+        "initialSearchType": "扩展",
+        "placeholderSearchBar": "查找扩展...",
         "controls": {
-          "labelActiveStateSwitch": "Hide inactive extensions",
+          "labelActiveStateSwitch": "隐藏未激活扩展",
           "filterOptions": {
-            "last-updated": "Last updated",
+            "last-updated": "最近更新",
             "name-asc": "Name A - Z.",
             "name-desc": "Name Z - A."
           }
         },
-        "version": "Version",
-        "update": "Update"
+        "version": "版本",
+        "update": "更新"
       },
       "account": {
         "headline": "Shopware Account",
@@ -43,17 +43,17 @@
         "loginNotificationMessage": "You are logged in to the Shopware Account."
       },
       "tabs": {
-        "app": "Apps",
-        "theme": "Themes",
-        "recommendation": "Recommendations",
-        "shopwareAccount": "Shopware Account"
+        "app": "应用",
+        "theme": "主题",
+        "recommendation": "推荐",
+        "shopwareAccount": "官方账号"
       },
       "fileUpload": {
-        "buttonFileUpload": "Upload extension",
-        "messageUploadSuccess": "Extension uploaded.",
-        "titleWarningModal": "Warning",
+        "buttonFileUpload": "上传扩展",
+        "messageUploadSuccess": "上传扩展成功.",
+        "titleWarningModal": "警告",
         "descriptionWarningModal": "Extensions from outside the Shopware Store have not been reviewed by us and could potentially pose a risk to your store. We recommend using extensions from the Shopware Store whenever possible.",
-        "textHideWarning": "Do not show again"
+        "textHideWarning": "不再显示"
       }
     },
     "errors": {
@@ -92,7 +92,7 @@
       "mainMenuItemExtensionStore": "扩展",
       "store": "商城",
       "purchased": "我的扩展",
-      "support": "Support"
+      "support": "帮助"
     },
     "sw-extension-app-module-error-page": {
       "error": {
@@ -126,7 +126,7 @@
     },
     "listing": {
       "tabs": {
-        "themes": "Themes"
+        "themes": "主题"
       },
       "placeHolderCategories": "All categories",
       "placeholderRatings": "All ratings",

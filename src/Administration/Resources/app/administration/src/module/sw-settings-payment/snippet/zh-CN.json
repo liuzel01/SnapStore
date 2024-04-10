@@ -1,8 +1,8 @@
 {
   "sw-settings-payment": {
     "general": {
-      "mainMenuItemGeneral": "Payment methods",
-      "placeholderSearchBar": "Search all payment methods..."
+      "mainMenuItemGeneral": "支付方式",
+      "placeholderSearchBar": "搜索全部支付方式..."
     },
     "overview": {
       "openSortingModalButton": "Edit display order in checkout",

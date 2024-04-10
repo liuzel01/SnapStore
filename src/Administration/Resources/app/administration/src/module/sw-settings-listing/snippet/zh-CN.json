@@ -1,8 +1,8 @@
 {
   "sw-settings-listing": {
     "general": {
-      "mainMenuItemGeneral": "Products",
-      "textHeadline": "Products",
+      "mainMenuItemGeneral": "产品",
+      "textHeadline": "产品",
       "description": "Manage the display of products here.",
       "buttonSave": "Save",
       "messageSaveSuccess": "Configuration saved.",

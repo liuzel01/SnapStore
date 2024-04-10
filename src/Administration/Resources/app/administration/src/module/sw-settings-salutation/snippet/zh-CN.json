@@ -6,11 +6,11 @@
   },
   "sw-settings-salutation": {
     "general": {
-      "mainMenuItemGeneral": "Salutations",
-      "buttonCancel": "Cancel",
+      "mainMenuItemGeneral": "称谓",
+      "buttonCancel": "取消",
       "buttonCreate": "Add salutation",
-      "buttonSave": "Save",
-      "placeholderSearchBar": "Search salutations..."
+      "buttonSave": "保存",
+      "placeholderSearchBar": "搜索称谓..."
     },
     "list": {
       "columnSalutationKey": "Technical name",

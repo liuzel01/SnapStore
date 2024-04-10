@@ -1,9 +1,9 @@
 {
   "sw-settings-document": {
     "general": {
-      "mainMenuItemGeneral": "Documents",
+      "mainMenuItemGeneral": "文档",
       "description": "Document configuration section in the settings module",
-      "placeholderSearchBar": "Search all documents..."
+      "placeholderSearchBar": "搜索全部文档..."
     },
     "list": {
       "textHeadline": "Documents",

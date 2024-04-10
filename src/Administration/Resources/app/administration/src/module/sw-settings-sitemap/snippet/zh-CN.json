@@ -1,10 +1,10 @@
 {
   "sw-settings-sitemap": {
     "general": {
-      "mainMenuItemGeneral": "Sitemap",
+      "mainMenuItemGeneral": "网站地图",
       "description": "Change the sitemap settings here.",
-      "textHeadline": "Sitemap",
-      "buttonSave": "Save",
+      "textHeadline": "网站地图",
+      "buttonSave": "保存",
       "messageSaveSuccess": "The configuration has been saved."
     }
   }

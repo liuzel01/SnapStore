@@ -1,11 +1,11 @@
 {
   "sw-settings-currency": {
     "general": {
-      "mainMenuItemGeneral": "Currencies",
-      "placeholderSearchBar": "Search all currencies..."
+      "mainMenuItemGeneral": "货币",
+      "placeholderSearchBar": "搜索全部货币..."
     },
     "list": {
-      "textHeadline": "Currencies",
+      "textHeadline": "货币",
       "textDeleteConfirm": "Are you sure you want to delete the currency \"{name}\"?",
       "columnName": "Name",
       "columnIsoCode": "ISO code",

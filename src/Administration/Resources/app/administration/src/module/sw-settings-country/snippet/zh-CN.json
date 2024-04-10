@@ -6,8 +6,8 @@
       "addressHandlingTab": "Address handling"
     },
     "general": {
-      "mainMenuItemGeneral": "Countries",
-      "placeholderSearchBar": "Search countries...",
+      "mainMenuItemGeneral": "国家",
+      "placeholderSearchBar": "搜索国家...",
       "actions": {
         "newSnippet": "Add new snippet",
         "createBefore": "New row before",

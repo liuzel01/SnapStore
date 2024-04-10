@@ -1,8 +1,8 @@
 {
   "sw-settings-rule": {
     "general": {
-      "mainMenuItemGeneral": "Rule builder",
-      "placeholderSearchBar": "Search all rules...",
+      "mainMenuItemGeneral": "规则",
+      "placeholderSearchBar": "搜索规则...",
       "descriptionTextModule": "Manage rules here."
     },
     "filter": {

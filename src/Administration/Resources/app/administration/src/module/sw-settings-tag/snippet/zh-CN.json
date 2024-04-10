@@ -1,8 +1,8 @@
 {
   "sw-settings-tag": {
     "general": {
-      "mainMenuItemGeneral": "Tags",
-      "placeholderSearchBar": "Search tags..."
+      "mainMenuItemGeneral": "标签",
+      "placeholderSearchBar": "搜索标签..."
     },
     "list": {
       "textHeadline": "Tags",

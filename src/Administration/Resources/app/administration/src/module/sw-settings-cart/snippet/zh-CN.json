@@ -1,10 +1,10 @@
 {
   "sw-settings-cart": {
     "general": {
-      "mainMenuItemGeneral": "Cart settings",
-      "textHeadline": "Cart settings",
+      "mainMenuItemGeneral": "购物车",
+      "textHeadline": "购物车",
       "description": "Manage cart settings here.",
-      "buttonSave": "Save",
+      "buttonSave": "保存",
       "messageSaveSuccess": "The configuration has been saved."
     }
   }

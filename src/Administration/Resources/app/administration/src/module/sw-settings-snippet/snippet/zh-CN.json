@@ -6,7 +6,7 @@
   },
   "sw-settings-snippet": {
     "general": {
-      "mainMenuItemGeneral": "Snippets",
+      "mainMenuItemGeneral": "语言片段",
       "description": "Manage snippets here.",
       "copyName": "copy",
       "errorBackRoutingTitle": "Invalid page request",
