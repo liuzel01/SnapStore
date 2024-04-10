@@ -2,7 +2,6 @@
     "name": "snap-store/administration",
     "description": "Administration frontend for the SnapStore Core",
     "type": "library",
-    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Shopware\\Administration\\": ""

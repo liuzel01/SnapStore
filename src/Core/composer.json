@@ -3,7 +3,6 @@
     "type": "library",
     "description": "Shopware platform is the core for all SnapStore ecommerce products.",
     "keywords": [
-        "shopware",
         "shop"
     ],
     "homepage": "http://www.snapadmin.net",

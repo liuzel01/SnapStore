@@ -3,7 +3,12 @@ name: 'Packages Split'
 on:
   push:
     branches:
-      - trunk
+      - '*'
+    paths:
+      - src/Administration/**/*
+      - src/Core/**/*
+      - src/Storefront/**/*
+      - src/Elasticsearch/**/*
     tags:
       - '*'
 
@@ -22,7 +27,15 @@ jobs:
           -
             local_path: 'Administration'
             split_repository: 'administration'
-
+          -
+            local_path: 'Core'
+            split_repository: 'core'
+          -
+            local_path: 'Storefront'
+            split_repository: 'storefront'
+          -
+            local_path: 'Elasticsearch'
+            split_repository: 'elasticsearch'
     steps:
       -   uses: actions/checkout@v4
 
