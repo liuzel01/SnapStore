@@ -3,13 +3,13 @@
     "general": {
       "placeholderSearchBar": "搜索 布局...",
       "mainMenuItemGeneral": "布局",
-      "moduleTitle": "Shopping Experiences",
-      "greeting": "Layouts",
-      "createNewLayout": "Create new layout",
+      "moduleTitle": "布局",
+      "greeting": "布局",
+      "createNewLayout": "创建新布局",
       "deleteDisabledToolTip": "The layout you want to delete is still assigned to at least one category.",
       "deleteDisabledProductToolTip": "The layout you want to delete is still assigned to at least one product.",
       "disabledAddingBlocksToolTip": "Adding blocks only works in your default system language.",
-      "buttonDelete": "Delete"
+      "buttonDelete": "删除"
     },
     "sorting": {
       "labelSort": "Sort by:",

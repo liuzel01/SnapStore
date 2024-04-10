@@ -1,8 +1,8 @@
 {
   "sw-settings-storefront": {
     "general": {
-      "mainMenuItemGeneral": "Storefront",
-      "textHeadline": "Storefront",
+      "mainMenuItemGeneral": "商城",
+      "textHeadline": "商城",
       "description": "Settings for the storefront",
       "helpText": "For more information look at <a target=\"_blank\" href='https://docs.snapadmin.net/en/shopware-6-de'>documentation</a>"
     },

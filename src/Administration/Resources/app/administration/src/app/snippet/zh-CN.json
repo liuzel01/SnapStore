@@ -1300,7 +1300,7 @@
     "placeholderSelect": "Search for...",
     "titleModalUnsavedChanges": "Unsaved changes",
     "titleModalButtonRevertUnsavedChanges": "Discard changes",
-    "labelDefaultOption": "All Sales Channels"
+    "labelDefaultOption": "全部销售渠道"
   },
   "sw-config-form-renderer": {
     "placeholder": "Please fill in {name}...",

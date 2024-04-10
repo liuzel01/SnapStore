@@ -1,7 +1,7 @@
 {
   "sw-settings-cache": {
     "general": {
-      "mainMenuItemGeneral": "Caches & indexes"
+      "mainMenuItemGeneral": "缓存 & 索引"
     },
     "toolbar": {
       "environment": "Environment",

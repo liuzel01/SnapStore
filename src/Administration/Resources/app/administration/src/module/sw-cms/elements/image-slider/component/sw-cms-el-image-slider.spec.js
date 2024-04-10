@@ -7,7 +7,7 @@ import 'src/module/sw-cms/mixin/sw-cms-element.mixin';
 const sliderItemsConfigMock = [
     {
         mediaId: '1',
-        mediaUrl: 'http://snapadmin.net/image1.jpg',
+        mediaUrl: 'http://shopware.net/image1.jpg',
     },
     {
         mediaId: '2',
@@ -23,7 +23,7 @@ const sliderItemsDataMock = [
     {
         media: {
             id: '1',
-            url: 'http://snapadmin.net/image1.jpg',
+            url: 'http://shopware.net/image1.jpg',
         },
     },
     {
@@ -112,7 +112,7 @@ describe('src/module/sw-cms/elements/image-slider/component', () => {
 
         // Initial state
         expect(wrapper.vm.sliderPos).toBe(0);
-        expect(wrapper.vm.imgSrc).toBe('http://snapadmin.net/image1.jpg');
+        expect(wrapper.vm.imgSrc).toBe('http://shopware.net/image1.jpg');
 
         // Click on back arrow
         wrapper.vm.setSliderArrowItem(-1);
@@ -126,7 +126,7 @@ describe('src/module/sw-cms/elements/image-slider/component', () => {
 
         // Navigate to first item provided that last item is active
         expect(wrapper.vm.sliderPos).toBe(0);
-        expect(wrapper.vm.imgSrc).toBe('http://snapadmin.net/image1.jpg');
+        expect(wrapper.vm.imgSrc).toBe('http://shopware.net/image1.jpg');
 
         // Click on next arrow
         wrapper.vm.setSliderArrowItem(1);

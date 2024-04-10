@@ -9,7 +9,7 @@ function getMedias() {
         {
             id: '1',
             media: {
-                url: 'http://snapadmin.net/image1.jpg',
+                url: 'http://shopware.net/image1.jpg',
             },
         },
         {

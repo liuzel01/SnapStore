@@ -7,7 +7,7 @@ import 'src/module/sw-cms/mixin/sw-cms-element.mixin';
 const sliderItemsConfigMock = [
     {
         mediaId: '1',
-        mediaUrl: 'http://snapadmin.net/image1.jpg',
+        mediaUrl: 'http://shopware.net/image1.jpg',
     },
     {
         mediaId: '2',
@@ -19,7 +19,7 @@ const sliderItemsDataMock = [
     {
         media: {
             id: '1',
-            url: 'http://snapadmin.net/image1.jpg',
+            url: 'http://shopware.net/image1.jpg',
         },
     },
     {

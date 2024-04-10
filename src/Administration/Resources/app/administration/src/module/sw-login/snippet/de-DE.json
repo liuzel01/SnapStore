@@ -5,7 +5,7 @@
       "description": "Shopware-Login"
     },
     "index": {
-      "headlineForm": "Melde Dich in Deinem Shopware-Shop an",
+      "headlineForm": "Melde Dich in Deinem Shop an",
       "labelUsername": "Benutzername",
       "labelPassword": "Passwort",
       "labelKeepLoggedIn": "Angemeldet bleiben",

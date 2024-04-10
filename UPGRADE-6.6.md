@@ -40,7 +40,7 @@ After:
 ```bash
 php bin/console messenger:consume async low_priority
 ```
-**Note:** This is not required if you use the [`admin_worker`](https://developer.shopware.com/docs/guides/plugins/plugins/framework/message-queue/add-message-handler.html#the-admin-worker), however the admin worker should only be used in local dev or test environments, and never be used in production or production-like environments.
+**Note:** This is not required if you use the [`admin_worker`](https://developer.snapadmin.net/docs/guides/plugins/plugins/framework/message-queue/add-message-handler.html#the-admin-worker), however the admin worker should only be used in local dev or test environments, and never be used in production or production-like environments.
 
 ## Configure another transport for the "low priority" queue
 The transport defaults to use Doctrine. You can use the `MESSENGER_TRANSPORT_LOW_PRIORITY_DSN` environment variable to change it.
@@ -333,7 +333,7 @@ class MyScheduledTaskHandler extends ScheduledTaskHandler
 # General Administration Breaking Changes
 
 ## Vue 3 upgrade
-We upgraded to Vue 3, for details check out our [upgrade guide](https://developer.shopware.com/docs/resources/references/upgrades/administration/vue3.html#vue-3-upgrade).
+We upgraded to Vue 3, for details check out our [upgrade guide](https://developer.snapadmin.net/docs/resources/references/upgrades/administration/vue3.html#vue-3-upgrade).
 
 ## Webpack 5 upgrade
 If your plugin uses a custom webpack configuration, you need to update the configuration to the new Webpack 5 API.

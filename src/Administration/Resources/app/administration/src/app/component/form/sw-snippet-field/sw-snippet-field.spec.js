@@ -40,6 +40,11 @@ async function createWrapper(systemLanguageIso = '', translations = [], customOp
                                         iso: 'de-DE',
                                         id: uuid.get('de-DE'),
                                     },
+                                    {
+                                        name: 'Base zh-CN',
+                                        iso: 'zh-CN',
+                                        id: uuid.get('zh-CN'),
+                                    },
                                 ]));
                             }
 

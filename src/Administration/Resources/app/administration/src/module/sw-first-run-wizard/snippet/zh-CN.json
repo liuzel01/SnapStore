@@ -1,7 +1,7 @@
 {
     "sw-first-run-wizard": {
         "general": {
-            "mainMenuItemGeneral": "First Run Wizard",
+            "mainMenuItemGeneral": "首次运行向导",
             "buttonNext": "Next",
             "buttonSkip": "Skip",
             "buttonNextPayPalInfo": "Configure",

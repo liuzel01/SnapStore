@@ -1,6 +1,6 @@
 {
-    "name": "snap-ag/platform",
-    "description": "The SnapAdmin e-commerce core",
+    "name": "snap-store/platform",
+    "description": "The SnapStore e-commerce core",
     "type": "library",
     "keywords": [
         "framework",
@@ -22,13 +22,6 @@
         "symfony/polyfill-php80": "*",
         "symfony/polyfill-php81": "*",
         "symfony/polyfill-php82": "*"
-    },
-    "support": {
-        "issues": "https://issues.snapadmin.net",
-        "forum": "https://forum.snapadmin.net",
-        "wiki": "https://developer.snapadmin.net",
-        "docs": "https://developer.snapadmin.net",
-        "chat": "https://slack.snapadmin.net"
     },
     "extra": {
         "bamarni-bin": {
