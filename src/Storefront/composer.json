@@ -13,13 +13,6 @@
     "config": {
         "sort-packages": true
     },
-    "support": {
-        "issues": "https://issues.snapadmin.net",
-        "forum": "https://forum.snapadmin.net",
-        "wiki": "https://developer.snapadmin.net",
-        "docs": "https://developer.snapadmin.net",
-        "chat": "https://slack.snapadmin.net"
-    },
     "extra": {
         "branch-alias": {
             "dev-master": "6.6.x-dev",

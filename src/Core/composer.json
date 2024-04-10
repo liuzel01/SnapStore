@@ -1,12 +1,10 @@
 {
     "name": "snap-store/core",
     "type": "library",
-    "description": "Shopware platform is the core for all SnapStore ecommerce products.",
+    "description": "SnapStore platform is the core for all SnapStore ecommerce products.",
     "keywords": [
         "shop"
     ],
-    "homepage": "http://www.snapadmin.net",
-    "license": "MIT",
     "autoload": {
         "files": [
             "Framework/Adapter/Doctrine/Patch/AbstractAsset.php",
@@ -18,13 +16,6 @@
         "psr-4": {
             "Shopware\\Core\\": ""
         }
-    },
-    "support": {
-        "issues": "https://issues.snapadmin.net",
-        "forum": "https://forum.snapadmin.net",
-        "wiki": "https://developer.snapadmin.net",
-        "docs": "https://developer.snapadmin.net",
-        "chat": "https://slack.snapadmin.net"
     },
     "extra": {
         "branch-alias": {
