@@ -37,7 +37,7 @@ jobs:
           # ↓ into https://github.com/symplify/easy-coding-standard repository
           repository_organization: 'starcat-store'
           repository_name: '${{ matrix.package.split_repository }}'
-
+          branch: '${{ github.ref_name }}'
           # ↓ the user signed under the split commit
           user_name: "gxiaosong"
           user_email: "lyricsong47@gmail.com"
@@ -55,7 +55,7 @@ jobs:
           # ↓ into https://github.com/symplify/easy-coding-standard repository
           repository_organization: 'starcat-store'
           repository_name: '${{ matrix.package.split_repository }}'
-
+          branch: '${{ github.ref_name }}'
           # ↓ the user signed under the split commit
           user_name: "gxiaosong"
           user_email: "lyricsong47@gmail.com"
