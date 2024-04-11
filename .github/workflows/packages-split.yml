@@ -49,6 +49,7 @@ jobs:
 
           # ↓ into https://github.com/symplify/easy-coding-standard repository
           # repository_organization: 'starcat-store'
+          repository_owner: 'liuzel01'
           repository_name: '${{ matrix.package.split_repository }}'
           branch: '${{ github.ref_name }}'
           # ↓ the user signed under the split commit
@@ -67,6 +68,7 @@ jobs:
 
           # ↓ into https://github.com/symplify/easy-coding-standard repository
           # repository_organization: 'starcat-store'
+          repository_owner: 'liuzel01'
           repository_name: '${{ matrix.package.split_repository }}'
           branch: '${{ github.ref_name }}'
           # ↓ the user signed under the split commit
