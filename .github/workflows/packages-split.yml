@@ -6,9 +6,9 @@ on:
       - '*'
     paths:
       - src/Administration/**/*
-      - src/Core/**/*
-      - src/Storefront/**/*
-      - src/Elasticsearch/**/*
+      # - src/Core/**/*
+      # - src/Storefront/**/*
+      # - src/Elasticsearch/**/*
 #    tags:
 #      - '*'
 
@@ -27,15 +27,15 @@ jobs:
           -
             local_path: 'Administration'
             split_repository: 'administration'
-          -
-            local_path: 'Core'
-            split_repository: 'core'
-          -
-            local_path: 'Storefront'
-            split_repository: 'storefront'
-          -
-            local_path: 'Elasticsearch'
-            split_repository: 'elasticsearch'
+          # -
+          #   local_path: 'Core'
+          #   split_repository: 'core'
+          # -
+          #   local_path: 'Storefront'
+          #   split_repository: 'storefront'
+          # -
+          #   local_path: 'Elasticsearch'
+          #   split_repository: 'elasticsearch'
     steps:
       -   uses: actions/checkout@v4
 
@@ -48,12 +48,12 @@ jobs:
           package_directory: 'src/${{ matrix.package.local_path }}'
 
           # ↓ into https://github.com/symplify/easy-coding-standard repository
-          repository_organization: 'starcat-store'
+          # repository_organization: 'starcat-store'
           repository_name: '${{ matrix.package.split_repository }}'
           branch: '${{ github.ref_name }}'
           # ↓ the user signed under the split commit
-          user_name: "gxiaosong"
-          user_email: "lyricsong47@gmail.com"
+          user_name: "liuzel01"
+          user_email: "liuzelin01@gmail.com"
 
       # with tag
       -
@@ -66,9 +66,9 @@ jobs:
           package_directory: 'src/${{ matrix.package.local_path }}'
 
           # ↓ into https://github.com/symplify/easy-coding-standard repository
-          repository_organization: 'starcat-store'
+          # repository_organization: 'starcat-store'
           repository_name: '${{ matrix.package.split_repository }}'
           branch: '${{ github.ref_name }}'
           # ↓ the user signed under the split commit
-          user_name: "gxiaosong"
-          user_email: "lyricsong47@gmail.com"
+          user_name: "liuzel01"
+          user_email: "`liuzelin01@gmail.com`"
