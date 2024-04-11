@@ -12,6 +12,7 @@ use Symfony\Component\DependencyInjection\Loader\XmlFileLoader;
 
 /**
  * @internal
+ * 新增一个修改，做 Actions 测试
  */
 #[Package('administration')]
 class Administration extends Bundle
