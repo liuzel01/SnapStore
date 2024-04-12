@@ -2,8 +2,8 @@ name: 'Packages Split'
 
 on:
   push:
-    # branches:
-    #   - trunk
+    branches:
+      - '*'
     paths:
       - src/Administration/**/*
       # - src/Core/**/*
