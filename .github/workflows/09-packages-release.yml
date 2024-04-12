@@ -13,19 +13,17 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build 
-        # run: echo ${{ github.sha }} > Release.txt 
         run: |
-          composer run build:js 
           cd src/Administration/Resources
-          zip -r dist.zip public 
+          mkdir -p public/static
+          echo ${{ github.sha }} > public/static/Release.txt 
 
       - name: Test
-        # run: cat Release.txt 
-        run: ls -lht src/Administration/Resources/public/
+        run: cat src/Administration/Resources/public/static/Release.txt 
 
       - name: Release
         uses: softprops/action-gh-release@v2
 
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
-          files: src/Administration/Resources/dist*.zip 
+          files: src/Administration/Resources/public
