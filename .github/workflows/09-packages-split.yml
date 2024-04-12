@@ -9,8 +9,8 @@ on:
       # - src/Core/**/*
       # - src/Storefront/**/*
       # - src/Elasticsearch/**/*
-#    tags:
-#      - '*'
+    tags:
+      - '*'
 
 env:
   # 1. for Github split
