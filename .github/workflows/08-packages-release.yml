@@ -50,8 +50,8 @@ jobs:
       - uses: actions/upload-artifact@v4.3.1
         with:
           name: public
-          path: src/Administration/Resources/public.tar.gz
-
+          path: public.tar.gz
+          
       - uses: actions/download-artifact@v4.1.4
         with:
           name: public
