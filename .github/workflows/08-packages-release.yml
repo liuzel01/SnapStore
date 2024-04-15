@@ -41,7 +41,8 @@ jobs:
 
       - name: Test Administration
         run: |
-          ls -lht src/Administration/Resources
+          pwd 
+          ls -lht src/Administration/Resources/public 
 
 # 主仓库不需要发布 release
       # - name: Release
