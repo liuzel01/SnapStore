@@ -74,8 +74,8 @@ jobs:
         if: "!startsWith(github.ref, 'refs/tags/')"
         uses: "danharrin/monorepo-split-github-action@v2.3.0"
         with:
-          package_directory: 'src/${{ matrix.package.local_path }}'
-          # package_directory: 'src/Administration'
+          # package_directory: 'src/${{ matrix.package.local_path }}'
+          package_directory: 'src/Administration'
           repository_organization: 'liuzel01'
           repository_name: '${{ matrix.package.split_repository }}'
           # branch: '${{ github.ref_name }}'
