@@ -1,3 +1,6 @@
+# 当特定文件夹下的文件发生变更、提交 tag 时，
+# 1. 打包存在变更的特定文件夹，
+
 name: 'Packages Release'
 
 on:
@@ -17,12 +20,13 @@ jobs:
           cd src/Administration/Resources
           mkdir -p public/static
           echo ${{ github.sha }} > public/static/Release.txt
+          tar -czvpf public.tar.gz ./public/
 
       - name: Test
-        run: cat src/Administration/Resources/public/static/Release.txt 
+        run: ls -lht public.tar.gz 
 
       - name: Release
         uses: softprops/action-gh-release@v2
-        # if: "!startsWith(github.ref, 'refs/tags/')"
+        if: "startsWith(github.ref, 'refs/tags/')"
         with:
-          files: .
+          files: public.tar.gz 
