@@ -1,5 +1,5 @@
 # 当特定文件夹下的文件发生变更、提交 tag 时，
-# 1. 打包存在变更的特定文件夹，
+# 1. 打包存在变更的特定文件夹，当前是 src/Administration/Resources/public.tar.gz
 
 name: 'Packages Release'
 
