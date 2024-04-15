@@ -7,8 +7,8 @@ on:
   push:
     branches:
       - '*'
-    tags:
-      - "v*.*.*"
+    # tags:
+    #   - "v*.*.*"
     paths:
       - src/Administration/**/*
 
@@ -37,7 +37,6 @@ jobs:
           cd src/Administration/Resources
           mkdir -p public/static
           echo ${{ github.sha }} > public/static/Release.txt
-          tar -czvpf public.tar.gz ./public/
 
       - name: Test Administration
         run: |
