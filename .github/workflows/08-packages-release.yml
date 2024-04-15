@@ -42,24 +42,24 @@ jobs:
         run: |
           ls -lht src/Administration/Resources/public 
 
-      - name: Archive directory
-        run: |
-          tar -czvpf public.tar.gz ./public
-        working-directory: 'src/Administration/Resources'
+      # - name: Archive directory
+      #   run: |
+      #     tar -czvpf public.tar.gz ./public
+      #   working-directory: 'src/Administration/Resources'
 
-      - uses: actions/upload-artifact@v4.3.1
+      - name: Upload Artifact 
+        uses: actions/upload-artifact@v4.3.1
         with:
-          name: public
-          path: src/Administration/Resources/public.tar.gz
+          name: my-artifact
+          path: src/Administration/Resources/public
           
-      - uses: actions/download-artifact@v4.1.4
+      - name: Download artifact 
+        uses: actions/download-artifact@v4.1.4
         with:
-          name: public
-          path: src/Administration/Resources/public.tar.gz
+          name: my-artifact 
+          path: src/Administration/Resources/public 
       - run: |
-          cd src/Administration/Resources
-          tar -zxvf public.tar.gz 
-
+          ls -lht  src/Administration/Resources/public
 
       # 主仓库不需要发布 release
       # - name: Release
