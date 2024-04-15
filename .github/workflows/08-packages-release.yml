@@ -12,6 +12,10 @@ on:
     paths:
       - src/Administration/**/*
 
+env:
+  # 1. for Github split
+  GITHUB_TOKEN: ${{ secrets.TOKEN }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
