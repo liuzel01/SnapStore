@@ -6,7 +6,7 @@ name: 'Packages Release'
 on:
   push:
     branches:
-      - '*'
+      - 'trunk'
     # tags:
     #   - "v*.*.*"
     paths:
@@ -37,6 +37,7 @@ jobs:
           cd src/Administration/Resources
           mkdir -p public/static
           echo ${{ github.sha }} > public/static/Release.txt
+        id: build_goods
 
       - name: Test Administration
         run: |
@@ -54,13 +55,12 @@ jobs:
         if: "!startsWith(github.ref, 'refs/tags/')"
         uses: "danharrin/monorepo-split-github-action@v2.3.0"
         with:
-          # ↓ split "packages/easy-coding-standard" directory
-          package_directory: 'src/${{ matrix.package.local_path }}'
-          # ↓ into https://github.com/symplify/easy-coding-standard repository
+          # package_directory: 'src/${{ matrix.package.local_path }}'
+          package_directory: 'src/Administration'
           repository_organization: 'liuzel01'
           repository_name: '${{ matrix.package.split_repository }}'
-          branch: '${{ github.ref_name }}'
-          # ↓ the user signed under the split commit
+          # branch: '${{ github.ref_name }}'
+          branch: 'trunk'
           user_name: "liuzel01"
           user_email: "liuzelin01@gmail.com"
 
@@ -71,11 +71,11 @@ jobs:
         with:
           tag: ${GITHUB_REF#refs/tags/}
           # ↓ split "packages/easy-coding-standard" directory
-          package_directory: 'src/${{ matrix.package.local_path }}'
+          package_directory: 'src/Administration'
           # ↓ into https://github.com/symplify/easy-coding-standard repository
           repository_organization: 'liuzel01'
           repository_name: '${{ matrix.package.split_repository }}'
-          branch: '${{ github.ref_name }}'
+          branch: 'trunk'
           # ↓ the user signed under the split commit
           user_name: "liuzel01"
           user_email: "liuzelin01@gmail.com"
