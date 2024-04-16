@@ -57,11 +57,11 @@ jobs:
           git checkout trunk 
           \cp -r src/Administration/* /tmp/monorepo_split/clone_directory/
           cd /tmp/monorepo_split/clone_directory
-          cat << EOF >> .git/config 
+          cat << CONF >> .git/config 
           [user]
               name = liuzel01
               email = liuzelin01@gmail.com
-          EOF
+          CONF
           cat .git/config
           git add -A .
           git commit -m "${{github.event.head_commit.message}}"
