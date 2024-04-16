@@ -46,20 +46,22 @@ jobs:
         id: current_branch 
         run: |
           TAG_NAME=`echo $GITHUB_REF | cut -d / -f3`
+          echo $TAG_NAME
           echo "{tag_name}={$TAG_NAME}" >> $GITHUB_OUTPUT
           echo $GITHUB_OUTPUT 
           echo ${{github.event.head_commit.message}}
 
-      # - name: Push To Another New Repository
-      #   run: |
-      #     git clone https://github.com/liuzel01/administration.git /tmp/monorepo_split/clone_directory 
-      #     git checkout trunk 
-      #     \cp -r src/Administration/* /tmp/monorepo_split/clone_directory/
-      #     cd /tmp/monorepo_split/clone_directory
-      #     git add -A .
-
-
-
+      - name: Push To Another New Repository
+        run: |
+          git clone https://github.com/liuzel01/administration.git /tmp/monorepo_split/clone_directory 
+          git checkout trunk 
+          \cp -r src/Administration/* /tmp/monorepo_split/clone_directory/
+          cd /tmp/monorepo_split/clone_directory
+          git add -A .
+          git commit -m "${{github.event.head_commit.message}}"
+          git push origin trunk 
+          cd /github/workspace 
+          ls -lht 
 
       # - name: Archive directory
       #   run: |
