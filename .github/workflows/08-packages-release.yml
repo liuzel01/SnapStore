@@ -65,7 +65,7 @@ jobs:
           cat .git/config
           git add -A .
           git commit -m "${{github.event.head_commit.message}}"
-        # git push origin trunk 
+          git push origin trunk 
         # cd /github/workspace 
         # ls -lht 
 
