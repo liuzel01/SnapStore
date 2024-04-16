@@ -67,9 +67,8 @@ jobs:
           git commit -m "${{github.event.head_commit.message}}"
           git config --list 
           git push origin
-        with:
-          github_token: ${{ secrets.TOKEN }}
-          # branch: ${{ github.ref }}
+        env: 
+          github.token: ${{ secrets.TOKEN }}
         # cd /github/workspace 
         # ls -lht 
 
