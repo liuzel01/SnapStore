@@ -7,8 +7,8 @@ on:
   push:
     branches:
       - 'trunk'
-    # tags:
-    #   - "v*.*.*"
+    tags:
+      - "v*.*.*"
     paths:
       - src/Administration/**/*
 
@@ -36,11 +36,29 @@ jobs:
           cd src/Administration/Resources
           mkdir -p public/static
           echo ${{ github.sha }} > public/static/Release.txt
-        # id: build_artifacts
+          pwd 
 
       - name: Test Administration
         run: |
           ls -lht src/Administration/Resources/public 
+
+      - name: Get Current Branch 
+        id: current_branch 
+        run: |
+          TAG_NAME=`echo $GITHUB_REF | cut -d / -f3`
+          echo ::set-output name=tag_name::$TAG_NAME
+          echo ${{github.event.head_commit.message}}
+
+      # - name: Push To Another New Repository
+      #   run: |
+      #     git clone https://github.com/liuzel01/administration.git /tmp/monorepo_split/clone_directory 
+      #     git checkout trunk 
+      #     \cp -r src/Administration/* /tmp/monorepo_split/clone_directory/
+      #     cd /tmp/monorepo_split/clone_directory
+      #     git add -A .
+
+
+
 
       # - name: Archive directory
       #   run: |
