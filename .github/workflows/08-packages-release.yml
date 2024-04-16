@@ -17,49 +17,49 @@ env:
   GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
 jobs:
-  packages_split: 
+  jobs-split: 
     runs-on: ubuntu-latest
-    strategy:
-      # fail-fast: false
-      matrix:
-        package:
-          -
-            local_path: 'Administration'
-            split_repository: 'administration'
+    # strategy:
+    #   # fail-fast: false
+    #   matrix:
+    #     package:
+    #       -
+    #         local_path: 'Administration'
+    #         split_repository: 'administration'
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Build Administration 
-        run: |
-          cd src/Administration/Resources
-          mkdir -p public/static
-          echo ${{ github.sha }} > public/static/Release.txt
-        # id: build_artifacts
+      # - name: Build Administration 
+      #   run: |
+      #     cd src/Administration/Resources
+      #     mkdir -p public/static
+      #     echo ${{ github.sha }} > public/static/Release.txt
+      #   # id: build_artifacts
 
-      - name: Test Administration
-        run: |
-          ls -lht src/Administration/Resources/public 
+      # - name: Test Administration
+      #   run: |
+      #     ls -lht src/Administration/Resources/public 
 
       # - name: Archive directory
       #   run: |
       #     tar -czvpf public.tar.gz ./public
       #   working-directory: 'src/Administration/Resources'
 
-      - name: Upload Artifact 
-        uses: actions/upload-artifact@v4.3.1
-        with:
-          name: my-artifact
-          path: src/Administration/Resources/public
+      # - name: Upload Artifact 
+      #   uses: actions/upload-artifact@v4.3.1
+      #   with:
+      #     name: my-artifact
+      #     path: src/Administration/Resources/public
           
-      - name: Download artifact 
-        uses: actions/download-artifact@v4.1.4
-        with:
-          name: my-artifact 
-          path: src/Administration/Resources/public 
-      - run: |
-          ls -lht  src/Administration/Resources/public
+      # - name: Download artifact 
+      #   uses: actions/download-artifact@v4.1.4
+      #   with:
+      #     name: my-artifact 
+      #     path: src/Administration/Resources/public 
+      # - run: |
+      #     ls -lht  src/Administration/Resources/public
 
       # 主仓库不需要发布 release
       # - name: Release
@@ -67,34 +67,38 @@ jobs:
       #   if: "startsWith(github.ref, 'refs/tags/')"
       #   with:
       #     files: src/Administration/Resources/public.tar.gz 
+      - name: Get Branch ENV 
+        run: |
+          echo $GITHUB_REF
 
-      # no tag
-      - 
-        name: Split Monorepo Without Tag 
-        if: "!startsWith(github.ref, 'refs/tags/')"
-        uses: "danharrin/monorepo-split-github-action@v2.3.0"
-        with:
-          # package_directory: 'src/${{ matrix.package.local_path }}'
-          package_directory: 'src/Administration'
-          repository_organization: 'liuzel01'
-          repository_name: '${{ matrix.package.split_repository }}'
-          # branch: '${{ github.ref_name }}'
-          branch: 'trunk'
-          user_name: "liuzel01"
-          user_email: "liuzelin01@gmail.com"
+      # - name: Without Tag 
 
-      # with tag
-      - name: Split Monorepo With Tag
-        if: "startsWith(github.ref, 'refs/tags/')"
-        uses: "danharrin/monorepo-split-github-action@v2.3.0"
-        with:
-          tag: ${GITHUB_REF#refs/tags/}
-          # ↓ split "packages/easy-coding-standard" directory
-          package_directory: 'src/Administration'
-          # ↓ into https://github.com/symplify/easy-coding-standard repository
-          repository_organization: 'liuzel01'
-          repository_name: '${{ matrix.package.split_repository }}'
-          branch: 'trunk'
-          # ↓ the user signed under the split commit
-          user_name: "liuzel01"
-          user_email: "liuzelin01@gmail.com"
+      # # no tag
+      # - name: Split Monorepo Without Tag 
+      #   if: "!startsWith(github.ref, 'refs/tags/')"
+      #   uses: "danharrin/monorepo-split-github-action@v2.3.0"
+      #   with:
+      #     # package_directory: 'src/${{ matrix.package.local_path }}'
+      #     package_directory: 'src/Administration'
+      #     repository_organization: 'liuzel01'
+      #     repository_name: '${{ matrix.package.split_repository }}'
+      #     # branch: '${{ github.ref_name }}'
+      #     branch: 'trunk'
+      #     user_name: "liuzel01"
+      #     user_email: "liuzelin01@gmail.com"
+
+      # # with tag
+      # - name: Split Monorepo With Tag
+      #   if: "startsWith(github.ref, 'refs/tags/')"
+      #   uses: "danharrin/monorepo-split-github-action@v2.3.0"
+      #   with:
+      #     tag: ${GITHUB_REF#refs/tags/}
+      #     # ↓ split "packages/easy-coding-standard" directory
+      #     package_directory: 'src/Administration'
+      #     # ↓ into https://github.com/symplify/easy-coding-standard repository
+      #     repository_organization: 'liuzel01'
+      #     repository_name: '${{ matrix.package.split_repository }}'
+      #     branch: 'trunk'
+      #     # ↓ the user signed under the split commit
+      #     user_name: "liuzel01"
+      #     user_email: "liuzelin01@gmail.com"
