@@ -47,6 +47,7 @@ jobs:
         run: |
           TAG_NAME=`echo $GITHUB_REF | cut -d / -f3`
           echo "{tag_name}={$TAG_NAME}" >> $GITHUB_OUTPUT
+          echo $GITHUB_OUTPUT 
           echo ${{github.event.head_commit.message}}
 
       # - name: Push To Another New Repository
