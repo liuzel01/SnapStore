@@ -62,11 +62,12 @@ jobs:
               name = liuzel01
               email = liuzelin01@gmail.com
           EOF
+          cat .git/config
           git add -A .
           git commit -m "${{github.event.head_commit.message}}"
-          git push origin trunk 
-          cd /github/workspace 
-          ls -lht 
+        # git push origin trunk 
+        # cd /github/workspace 
+        # ls -lht 
 
       # - name: Archive directory
       #   run: |
