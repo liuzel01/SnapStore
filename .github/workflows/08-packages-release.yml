@@ -19,13 +19,13 @@ env:
 jobs:
   jobs-split: 
     runs-on: ubuntu-latest
-    # strategy:
-    #   # fail-fast: false
-    #   matrix:
-    #     package:
-    #       -
-    #         local_path: 'Administration'
-    #         split_repository: 'administration'
+    strategy:
+      # fail-fast: false
+      matrix:
+        package:
+          -
+            local_path: 'Administration'
+            split_repository: 'administration'
 
     steps:
       - name: Checkout Repository
